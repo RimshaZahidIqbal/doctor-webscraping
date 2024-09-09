@@ -1,0 +1,466 @@
+[
+    {
+        "name": "Prof. Sultan Mustafa",
+        "speciality": "Pediatrician",
+        "education": "MBBS, DCH, MCPS, FCPS",
+        "work_days": "Daily (Except Sun)",
+        "image": "https://mamjihospital.com/wp-content/uploads/2021/09/Prof-sultan-mustafa.jpeg",
+        "hospital": "Mamji Hospital"
+    },
+    {
+        "name": "Dr. Shafaq Shahid",
+        "speciality": "Pediatrician",
+        "education": "MBBS, MCPS",
+        "work_days": "Mon to Sat",
+        "image": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgdmlld0JveD0iMCAwIDUwMCA1MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxwYXRoIGZpbGw9IiNFQkVCRUIiIGQ9Ik0wIDBoNTAwdjUwMEgweiIvPgogICAgICAgIDxyZWN0IGZpbGwtb3BhY2l0eT0iLjEiIGZpbGw9IiMwMDAiIHg9IjY4IiB5PSIzMDUiIHdpZHRoPSIzNjQiIGhlaWdodD0iNTY4IiByeD0iMTgyIi8+CiAgICAgICAgPGNpcmNsZSBmaWxsLW9wYWNpdHk9Ii4xIiBmaWxsPSIjMDAwIiBjeD0iMjQ5IiBjeT0iMTcyIiByPSIxMDAiLz4KICAgIDwvZz4KPC9zdmc+Cg==",
+        "hospital": "Mamji Hospital"
+    },
+    {
+        "name": "Dr. Mehmood Sheikh",
+        "speciality": "Pediatrician",
+        "education": "MBBS, FCPS (Peadiatric) & FCPS (Neonatology)",
+        "work_days": "Mon to Sat",
+        "image": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgdmlld0JveD0iMCAwIDUwMCA1MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxwYXRoIGZpbGw9IiNFQkVCRUIiIGQ9Ik0wIDBoNTAwdjUwMEgweiIvPgogICAgICAgIDxyZWN0IGZpbGwtb3BhY2l0eT0iLjEiIGZpbGw9IiMwMDAiIHg9IjY4IiB5PSIzMDUiIHdpZHRoPSIzNjQiIGhlaWdodD0iNTY4IiByeD0iMTgyIi8+CiAgICAgICAgPGNpcmNsZSBmaWxsLW9wYWNpdHk9Ii4xIiBmaWxsPSIjMDAwIiBjeD0iMjQ5IiBjeT0iMTcyIiByPSIxMDAiLz4KICAgIDwvZz4KPC9zdmc+Cg==",
+        "hospital": "Mamji Hospital"
+    },
+    {
+        "name": "Dr.Sadia Syed",
+        "speciality": "Pediatrician",
+        "education": "MBBS, MCPS",
+        "work_days": "Mon to Sat",
+        "image": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgdmlld0JveD0iMCAwIDUwMCA1MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxwYXRoIGZpbGw9IiNFQkVCRUIiIGQ9Ik0wIDBoNTAwdjUwMEgweiIvPgogICAgICAgIDxyZWN0IGZpbGwtb3BhY2l0eT0iLjEiIGZpbGw9IiMwMDAiIHg9IjY4IiB5PSIzMDUiIHdpZHRoPSIzNjQiIGhlaWdodD0iNTY4IiByeD0iMTgyIi8+CiAgICAgICAgPGNpcmNsZSBmaWxsLW9wYWNpdHk9Ii4xIiBmaWxsPSIjMDAwIiBjeD0iMjQ5IiBjeT0iMTcyIiByPSIxMDAiLz4KICAgIDwvZz4KPC9zdmc+Cg==",
+        "hospital": "Mamji Hospital"
+    },
+    {
+        "name": "Dr. Umaima Shams Un Nisa",
+        "speciality": "Pediatrician",
+        "education": "MBBS, FCPS",
+        "work_days": "Mon to Sat",
+        "image": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgdmlld0JveD0iMCAwIDUwMCA1MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxwYXRoIGZpbGw9IiNFQkVCRUIiIGQ9Ik0wIDBoNTAwdjUwMEgweiIvPgogICAgICAgIDxyZWN0IGZpbGwtb3BhY2l0eT0iLjEiIGZpbGw9IiMwMDAiIHg9IjY4IiB5PSIzMDUiIHdpZHRoPSIzNjQiIGhlaWdodD0iNTY4IiByeD0iMTgyIi8+CiAgICAgICAgPGNpcmNsZSBmaWxsLW9wYWNpdHk9Ii4xIiBmaWxsPSIjMDAwIiBjeD0iMjQ5IiBjeT0iMTcyIiByPSIxMDAiLz4KICAgIDwvZz4KPC9zdmc+Cg==",
+        "hospital": "Mamji Hospital"
+    },
+    {
+        "name": "Dr. Ghulam Nabi",
+        "speciality": "Pediatrician",
+        "education": "MBBS, FCPS",
+        "work_days": "Mon to Sat",
+        "image": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgdmlld0JveD0iMCAwIDUwMCA1MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxwYXRoIGZpbGw9IiNFQkVCRUIiIGQ9Ik0wIDBoNTAwdjUwMEgweiIvPgogICAgICAgIDxyZWN0IGZpbGwtb3BhY2l0eT0iLjEiIGZpbGw9IiMwMDAiIHg9IjY4IiB5PSIzMDUiIHdpZHRoPSIzNjQiIGhlaWdodD0iNTY4IiByeD0iMTgyIi8+CiAgICAgICAgPGNpcmNsZSBmaWxsLW9wYWNpdHk9Ii4xIiBmaWxsPSIjMDAwIiBjeD0iMjQ5IiBjeT0iMTcyIiByPSIxMDAiLz4KICAgIDwvZz4KPC9zdmc+Cg==",
+        "hospital": "Mamji Hospital"
+    },
+    {
+        "name": "Dr. Durr-e-Shehwar",
+        "speciality": "Pediatrician",
+        "education": "MBBS,MCPS",
+        "work_days": "Daily (except Fri, Sat & Sun)",
+        "image": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgdmlld0JveD0iMCAwIDUwMCA1MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxwYXRoIGZpbGw9IiNFQkVCRUIiIGQ9Ik0wIDBoNTAwdjUwMEgweiIvPgogICAgICAgIDxyZWN0IGZpbGwtb3BhY2l0eT0iLjEiIGZpbGw9IiMwMDAiIHg9IjY4IiB5PSIzMDUiIHdpZHRoPSIzNjQiIGhlaWdodD0iNTY4IiByeD0iMTgyIi8+CiAgICAgICAgPGNpcmNsZSBmaWxsLW9wYWNpdHk9Ii4xIiBmaWxsPSIjMDAwIiBjeD0iMjQ5IiBjeT0iMTcyIiByPSIxMDAiLz4KICAgIDwvZz4KPC9zdmc+Cg==",
+        "hospital": "Mamji Hospital"
+    },
+    {
+        "name": "Dr. Munaf Memon",
+        "speciality": "Pediatrician",
+        "education": "MBBS DCH",
+        "work_days": "Mon to Sat",
+        "image": "https://mamjihospital.com/wp-content/uploads/2021/09/Dr-munaf-memon.jpeg",
+        "hospital": "Mamji Hospital"
+    },
+    {
+        "name": "Dr. Shumaila Israr",
+        "speciality": "Pediatrician",
+        "education": "MBBS, FCPS",
+        "work_days": "Mon to Sat",
+        "image": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgdmlld0JveD0iMCAwIDUwMCA1MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxwYXRoIGZpbGw9IiNFQkVCRUIiIGQ9Ik0wIDBoNTAwdjUwMEgweiIvPgogICAgICAgIDxyZWN0IGZpbGwtb3BhY2l0eT0iLjEiIGZpbGw9IiMwMDAiIHg9IjY4IiB5PSIzMDUiIHdpZHRoPSIzNjQiIGhlaWdodD0iNTY4IiByeD0iMTgyIi8+CiAgICAgICAgPGNpcmNsZSBmaWxsLW9wYWNpdHk9Ii4xIiBmaWxsPSIjMDAwIiBjeD0iMjQ5IiBjeT0iMTcyIiByPSIxMDAiLz4KICAgIDwvZz4KPC9zdmc+Cg==",
+        "hospital": "Mamji Hospital"
+    },
+    {
+        "name": "Dr. Touqeer Hussain",
+        "speciality": "Pediatrician",
+        "education": "MCPS, FCPS, DPN (USA)",
+        "work_days": "Mon to Sat",
+        "image": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgdmlld0JveD0iMCAwIDUwMCA1MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxwYXRoIGZpbGw9IiNFQkVCRUIiIGQ9Ik0wIDBoNTAwdjUwMEgweiIvPgogICAgICAgIDxyZWN0IGZpbGwtb3BhY2l0eT0iLjEiIGZpbGw9IiMwMDAiIHg9IjY4IiB5PSIzMDUiIHdpZHRoPSIzNjQiIGhlaWdodD0iNTY4IiByeD0iMTgyIi8+CiAgICAgICAgPGNpcmNsZSBmaWxsLW9wYWNpdHk9Ii4xIiBmaWxsPSIjMDAwIiBjeD0iMjQ5IiBjeT0iMTcyIiByPSIxMDAiLz4KICAgIDwvZz4KPC9zdmc+Cg==",
+        "hospital": "Mamji Hospital"
+    },
+    {
+        "name": "Dr.  Muhammad Rafiq",
+        "speciality": "Pediatrician",
+        "education": "MBBS, FCPS",
+        "work_days": "Mon, Wed, Fri",
+        "image": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgdmlld0JveD0iMCAwIDUwMCA1MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxwYXRoIGZpbGw9IiNFQkVCRUIiIGQ9Ik0wIDBoNTAwdjUwMEgweiIvPgogICAgICAgIDxyZWN0IGZpbGwtb3BhY2l0eT0iLjEiIGZpbGw9IiMwMDAiIHg9IjY4IiB5PSIzMDUiIHdpZHRoPSIzNjQiIGhlaWdodD0iNTY4IiByeD0iMTgyIi8+CiAgICAgICAgPGNpcmNsZSBmaWxsLW9wYWNpdHk9Ii4xIiBmaWxsPSIjMDAwIiBjeD0iMjQ5IiBjeT0iMTcyIiByPSIxMDAiLz4KICAgIDwvZz4KPC9zdmc+Cg==",
+        "hospital": "Mamji Hospital"
+    },
+    {
+        "name": "Dr.Syeda Falak Nayyer",
+        "speciality": "Psychologist",
+        "education": "PMDCP, NLP, M.S, DHMS,SLP & AP Nutritionist",
+        "work_days": "Tues & Fri",
+        "image": "https://mamjihospital.com/wp-content/uploads/2021/09/Dr-syeda-falak-nayyer.jpeg",
+        "hospital": "Mamji Hospital"
+    },
+    {
+        "name": "Dr. Hafiz Irfan Mughal",
+        "speciality": "Psychologist",
+        "education": "PMDC,  NLP,M.S (Clinical Psychology) , PCC (Psychiatry)",
+        "work_days": "Tues & Fri",
+        "image": "https://mamjihospital.com/wp-content/uploads/2021/09/Dr-irfan-mughal.jpeg",
+        "hospital": "Mamji Hospital"
+    },
+    {
+        "name": "Dr. Naima Zamir",
+        "specialty": "PAEDIATRIC SURGEON",
+        "fees": "Rs 1200",
+        "degree": "MBBS, FCPS ( Paeds Surgery), FCPS (General Surgery)",
+        "timings": [
+            {
+                "time": "06:00 PM to 07:00 PM",
+                "days": "(Tue, Thu, Sat)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital"
+    },
+    {
+        "name": "Dr. Raees Hussain",
+        "specialty": "PAEDIATRIC SURGEON",
+        "fees": "Rs 1200",
+        "degree": "MBBS, FCPS (SURGEON)",
+        "timings": [
+            {
+                "time": "03:00 PM to 04:00 PM",
+                "days": "(Mon, Wed, Fri)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital"
+    },
+    {
+        "name": "Dr. Anila Haroon",
+        "specialty": "PEDIATRICIAN / CHILD SPECIALIST",
+        "fees": "Rs 1200",
+        "degree": "MBBS, DCH, FCPS",
+        "timings": [
+            {
+                "time": "01:30 PM to 06:00 PM",
+                "days": "(Mon)"
+            },
+            {
+                "time": "01:30 PM to 05:30 PM",
+                "days": "(Tue, Wed)"
+            },
+            {
+                "time": "09:30 AM to 01:00 PM & 04:00 PM to 06:00 PM",
+                "days": "(Thu)"
+            },
+            {
+                "time": "10:30 AM to 12:30 PM & 01:30 PM to 05:30 PM",
+                "days": "(Fri)"
+            },
+            {
+                "time": "9:30 AM to 4:30 PM",
+                "days": "(Sat)"
+            },
+            {
+                "time": "12:00 PM to 02:00 PM",
+                "days": "(Sun)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital"
+    },
+    {
+        "name": "Dr. Brig.(R) Arshad Mahmood",
+        "specialty": "PEDIATRICIAN / CHILD SPECIALIST",
+        "fees": "Rs 1200",
+        "degree": " MBBS, DCH, FCPS",
+        "timings": [
+            {
+                "time": "09:00 AM to 01:00 PM & 06:00 PM to 09:00 PM",
+                "days": "(Mon, Wed, Sat)"
+            },
+            {
+                "time": "09:00 AM to 01:00 PM & 02:00 PM to 04:00 PM & 06:00 PM to 09:00 PM",
+                "days": "(Tue, Fri)"
+            },
+            {
+                "time": "01:00 PM to 04:00 PM & 06:00 PM to 09:00 PM",
+                "days": "(Thu)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital"
+    },
+    {
+        "name": "Dr. Fareed uddin",
+        "specialty": "PEDIATRICIAN / CHILD SPECIALIST",
+        "fees": "Rs",
+        "degree": "MBBS , DCH, MCPS, FCPS.",
+        "timings": [
+            {
+                "time": "05:00 PM to 08:00 PM",
+                "days": "(Mon, Tue, Wed, Thu, Fri, Sat)"
+            },
+            {
+                "time": "11:00 AM to 12:00 PM",
+                "days": "(Sun)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital"
+    },
+    {
+        "name": "Prof. Dr. Ghaffar Billo",
+        "specialty": "PEDIATRICIAN / CHILD SPECIALIST",
+        "fees": "Rs 1700",
+        "degree": "MBBS, DCH, MRCP, DTMH, FRCP",
+        "timings": [
+            {
+                "time": "10:00 AM to 02:00 PM",
+                "days": "(Tue)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital"
+    },
+    {
+        "name": "Dr. M. Farooq Khan",
+        "speciality": "Neurologist",
+        "education": "MBBS, FCPS",
+        "work_days": "Mon to sat",
+        "image": "https://mamjihospital.com/wp-content/uploads/2021/09/Dr-muhammad-farooq-khan.jpeg",
+        "hospital": "Mamji Hospital"
+    },
+    {
+        "name": "Dr. M.Irfan Hashmat",
+        "speciality": "Neurologist",
+        "education": "MBBS, FCPS",
+        "work_days": "Mon to Fri",
+        "image": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgdmlld0JveD0iMCAwIDUwMCA1MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxwYXRoIGZpbGw9IiNFQkVCRUIiIGQ9Ik0wIDBoNTAwdjUwMEgweiIvPgogICAgICAgIDxyZWN0IGZpbGwtb3BhY2l0eT0iLjEiIGZpbGw9IiMwMDAiIHg9IjY4IiB5PSIzMDUiIHdpZHRoPSIzNjQiIGhlaWdodD0iNTY4IiByeD0iMTgyIi8+CiAgICAgICAgPGNpcmNsZSBmaWxsLW9wYWNpdHk9Ii4xIiBmaWxsPSIjMDAwIiBjeD0iMjQ5IiBjeT0iMTcyIiByPSIxMDAiLz4KICAgIDwvZz4KPC9zdmc+Cg==",
+        "hospital": "Mamji Hospital"
+    },
+    {
+        "name": "Dr. Afreen Zubair",
+        "speciality": "Neurologist",
+        "education": "MBBS, FCPS",
+        "work_days": "Thurs, Fri & Sat",
+        "image": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgdmlld0JveD0iMCAwIDUwMCA1MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxwYXRoIGZpbGw9IiNFQkVCRUIiIGQ9Ik0wIDBoNTAwdjUwMEgweiIvPgogICAgICAgIDxyZWN0IGZpbGwtb3BhY2l0eT0iLjEiIGZpbGw9IiMwMDAiIHg9IjY4IiB5PSIzMDUiIHdpZHRoPSIzNjQiIGhlaWdodD0iNTY4IiByeD0iMTgyIi8+CiAgICAgICAgPGNpcmNsZSBmaWxsLW9wYWNpdHk9Ii4xIiBmaWxsPSIjMDAwIiBjeD0iMjQ5IiBjeT0iMTcyIiByPSIxMDAiLz4KICAgIDwvZz4KPC9zdmc+Cg==",
+        "hospital": "Mamji Hospital"
+    },
+    {
+        "name": "Dr. Owais Hashmat",
+        "speciality": "Neurologist",
+        "education": "MBBS, FCPS",
+        "work_days": "Mon to Fri",
+        "image": "https://mamjihospital.com/wp-content/uploads/2021/09/Dr-owais-hashmat.jpeg",
+        "hospital": "Mamji Hospital"
+    },
+    {
+        "name": "Dr. Nadir Ali Syed",
+        "image": "https://i0.wp.com/southcityhospital.org/wp-content/uploads/2022/01/02.jpg?fit=400%2C400&ssl=1",
+        "education": "MBBS from Aga Khan University Hospital, Clinical training in neurology at the University of Medicine and Dentistry, New Jersey, Sub-specialization fellowship in Clinical Neurophysiology at the National Institute of Health (NIH), Bethesda, Maryland",
+        "hospital": "South City Hospital",
+        "positions": [
+            "Clinical Neurologist"
+        ],
+        "clinic": {
+            "days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Saturday"
+            ],
+            "timing": {
+                "Monday": "9:00 AM – 2:00 PM",
+                "Tuesday": "3:00 PM – 9:00 PM",
+                "Wednesday": "9:00 AM – 9:00 PM",
+                "Thursday": "3:00 PM – 9:00 PM",
+                "Saturday": "3:00 PM – 9:00 PM"
+            },
+            "appointments": "0334-2121212 (Umair)"
+        }
+    },
+    {
+        "name": "Dr. Mughis Sherani",
+        "image": "https://i0.wp.com/southcityhospital.org/wp-content/uploads/2023/02/Dr.-Mughis-sherani-e1675339046156-400x411.jpeg?fit=1263%2C1300&ssl=1",
+        "education": "FCPS (Neurology)",
+        "hospital": "South City Hospital",
+        "positions": [
+            "Consultant  neurologist "
+        ],
+        "clinic": {
+            "days": [
+                "Monday",
+                "Tuesday",
+                "Thursday",
+                "Friday",
+                "Saturday"
+            ],
+            "timing": {
+                "Monday": "3:00 PM – 6:00 PM",
+                "Tuesday": "9:00 AM – 1:00 PM",
+                "Thursday": "9:00 AM – 1:00 PM",
+                "Friday": "4:00 PM – 6:00 PM",
+                "Saturday": "9:00 AM – 1:00 PM"
+            },
+            "appointments": [
+                "+92-335-3353351",
+                "+92-336-0384980"
+            ]
+        }
+    },
+    {
+        "name": "Dr. Jai Singh Rana",
+        "image": "https://i0.wp.com/southcityhospital.org/wp-content/uploads/2023/07/Dr.-Jai-Neurologist-e1690352329949.jpeg?fit=412%2C475&ssl=1",
+        "education": "Fellowship in stroke and Vascular Neurology (USA)",
+        "hospital": "South City Hospital",
+        "positions": [
+            "Consultant Neurologist"
+        ],
+        "clinic": {
+            "days": [
+                "Monday",
+                "Friday"
+            ],
+            "timing": {
+                "Monday": "7:00 PM to 9:00 PM",
+                "Friday": "7:00 PM to 9:00 PM"
+            },
+            "appointments": "+92-334-2121212"
+        }
+    },
+    {
+        "name": "Najma Adam",
+        "image": "https://i0.wp.com/southcityhospital.org/wp-content/uploads/2023/09/Najma-e1694680698118.jpeg?fit=563%2C615&ssl=1",
+        "education": [
+            "Graduated from Jinnah Post Graduate Medical Centre (JPMC) in 1998",
+            "Master’s in Special Education",
+            "Training in the USA and Malaysia",
+            "Certified Autism Spectrum Disorder Clinical Specialist (ASDCS)"
+        ],
+        "hospital": "South City Hospital",
+        "position": "Consultant Occupational Therapist",
+        "clinic": {
+            "day": "Saturday",
+            "timing": "3:00 PM to 6:00 PM",
+            "landlines": [
+                "(+9221) 358 62 301 to 03",
+                "(+9221) 353 740 72-5"
+            ],
+            "appointment": "0346-8204989 (Jehangir)"
+        }
+    },
+    {
+        "name": "Dr. Sobia Haqqi",
+        "image": "https://i0.wp.com/southcityhospital.org/wp-content/uploads/2022/06/sobia-haqqi.jpg?resize=150%2C150&ssl=1",
+        "education": [
+            "MBBS",
+            "MCPS (2009) from College of Physicians & Surgeons",
+            "FCPS (2010) from College of Physicians & Surgeons"
+        ],
+        "hospital": "South City Hospital",
+        "position": "Consultant Psychiatrist ",
+       
+        "clinic": {
+            "days": [
+                "Monday",
+                "Wednesday",
+                "Friday"
+            ],
+            "timing": "3:00 PM to 6:00 PM",
+            "landlines": [
+                "(+9221) 358 62 301 to 03",
+                "(+9221) 353 740 72-5"
+            ],
+            "appointments": "Ahmed (+92)316 240 9923"
+        }
+    },
+    {
+        "name": "Dr. Nasim Chaudhry",
+        "image": "https://i0.wp.com/southcityhospital.org/wp-content/uploads/2022/06/FullSizeRender-1.jpg?fit=214%2C286&ssl=1",
+        "education": [
+            "Honorary Senior Lecturer at the University of Manchester"
+        ],
+        "hospital": "South City Hospital",
+        "position": "Consultant Psychiatrist",
+        "clinic": {
+            "days": [
+                "Monday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+            ],
+            "timing": "3:00 PM to 6:00 PM 2:00 PM - 5:00 PM",
+            "appointments": "(Ahmed) +92-311-897 0265"
+        }
+    },
+    {
+        "name": "Ms. Amna Tariq",
+        "image": "https://i0.wp.com/southcityhospital.org/wp-content/uploads/2022/06/Amna-Tariq-400x400.jpg?fit=1000%2C1000&ssl=1",
+        "education": [
+            "MSc in Clinical Psychology",
+            "Post-Magistral Diploma in Clinical Psychology",
+            "Post-graduation in Child & Adolescent Mental Health (King's College, London)"
+        ],
+        "hospital": "South City Hospital",
+        "position": "Clinical Psychologist",
+        "clinic": {
+            "days": [
+                "Thursday",
+                "Saturday"
+            ],
+            "timing": "1:00 PM to 4:00 PM",
+            "appointments": "(Fahad) +92-333-8006998"
+        }
+    },
+    {
+        "name": "Prof. Dr. Shahin Haye",
+        "image": "https://i0.wp.com/southcityhospital.org/wp-content/uploads/2023/02/Prof.-Shahin-Haye-e1675328931565.jpeg?fit=450%2C505&ssl=1",
+        "education": [
+            "FRC Psych (The Royal College of Psychiatrists, London)",
+            "MRC Psych (The Royal College of Psychiatrists, London)",
+            "MDCH (Medical Diploma in Clinical Hypnosis, London)",
+            "Diploma in Psychological Medicine (Royal College of Physicians of London)",
+            "MBBS"
+        ],
+        "hospital": "South City Hospital",
+        "position": "Consultant Psychiatrist & Hypnotherapist",
+        "clinic": {
+            "days": [
+                "Thursday"
+            ],
+            "timing": "6:00 PM to 9:00 PM",
+            "appointments": "(Tahir Nawab) +92-333-841-2369"
+        }
+    },
+    {
+        "name": "Prof. Dr. Shahin Haye",
+        "image": "https://i0.wp.com/southcityhospital.org/wp-content/uploads/2023/02/Prof.-Shahin-Haye-e1675328931565.jpeg?fit=450%2C505&ssl=1",
+        "education": [
+            "FRC Psych (The Royal College of Psychiatrists, London)",
+            "MRC Psych (The Royal College of Psychiatrists, London)",
+            "MDCH (Medical Diploma in Clinical Hypnosis, London)",
+            "Diploma in Psychological Medicine (Royal College of Physicians of London)",
+            "MBBS"
+        ],
+        "hospital": "South City Hospital",
+        "position": "Consultant Psychiatrist & Hypnotherapist",
+        "clinic": {
+            "days": [
+                "Thursday"
+            ],
+            "timing": "6:00 PM to 9:00 PM",
+            "appointments": "(Tahir Nawab) +92-333-841-2369"
+        }
+    },
+    {
+        "name": "Ms. Rana Hira",
+        "image": "https://i0.wp.com/southcityhospital.org/wp-content/uploads/2023/02/Ms.-Rana-Hira-e1676460348875.jpg?fit=486%2C528&ssl=1",
+        "education": [
+            "M.Sc in Clinical Psychology (University of Karachi)",
+            "M.Phil in Clinical Psychology (University of Karachi)"
+        ],
+        "hospital": "South City Hospital",
+        "position": "Clinical Psychologist",
+        "clinic": {
+            "days": [
+                "Monday",
+                "Wednesday",
+                "Friday"
+            ],
+            "timing": "9:00 AM to 12:00 PM",
+            "appointments": "+92-346-8204988"
+        }
+    }
+]
