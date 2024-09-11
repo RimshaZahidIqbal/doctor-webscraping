@@ -1,9 +1,0 @@
-https://hospitals.aku.edu/pakistan/patientservices/pages/findadoctor.aspx?Spec=Paediatric%20Occupational%20Therapy
-https://hospitals.aku.edu/pakistan/patientservices/pages/findadoctor.aspx?Spec=Paediatric%20Oncology
-https://hospitals.aku.edu/pakistan/patientservices/pages/findadoctor.aspx?Spec=Paediatric%20Physical%20Therapy%20and%20Rehabilitation
-https://hospitals.aku.edu/pakistan/patientservices/pages/findadoctor.aspx?Spec=Paediatric%20Psychology
-https://hospitals.aku.edu/pakistan/patientservices/pages/findadoctor.aspx?Spec=Paediatric%20Rheumatology
-https://hospitals.aku.edu/pakistan/patientservices/pages/findadoctor.aspx?Spec=Paediatric%20Surgery
-https://hospitals.aku.edu/pakistan/patientservices/pages/findadoctor.aspx?Spec=Psychiatry
-https://hospitals.aku.edu/pakistan/patientservices/pages/findadoctor.aspx?Spec=Neurology
-https://hospitals.aku.edu/pakistan/patientservices/pages/findadoctor.aspx?Spec=Clinical%20Psychology
