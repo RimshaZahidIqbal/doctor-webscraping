@@ -1,20 +1,148 @@
 [
     {
-        "name": "N/A",
-        "qualifications": "Dr.  Amanullah  Khan",
-        "department": "N/A",
-        "clinics": []
+        "name": "Dr. Hina Yousuf",
+        "qualifications": "FCPS",
+        "department": " Paediatric Surgery",
+        "clinics": [
+            {
+                "clinic_name": "Paediatrics Urology And Nephrology Clinic",
+                "location": "Liaquat National Hospital",
+                "contact": "02134412474, 02134413036",
+                "timings": [
+                    {
+                        "day": "Mon",
+                        "shift": "Morning",
+                        "timing": "11:30 am  to  02:00 pm"
+                    },
+                    {
+                        "day": "Thu",
+                        "shift": "Morning",
+                        "timing": "11:30 am  to  02:00 pm"
+                    },
+                    {
+                        "day": "Fri",
+                        "shift": "Afternoon",
+                        "timing": "02:00 pm  to  04:30 pm"
+                    },
+                    {
+                        "day": "Sat",
+                        "shift": "Afternoon",
+                        "timing": "02:00 pm  to  04:29 pm"
+                    },
+                    {
+                        "day": "Fri",
+                        "shift": "Morning",
+                        "timing": "10:00 am  to  01:00 pm"
+                    }
+                ]
+            },
+            {
+                "clinic_name": "Paediatrics Stone Management Clinic",
+                "location": "Liaquat National Hospital",
+                "contact": "02134413199",
+                "timings": [
+                 
+                    {
+                        "day": "Wed",
+                        "shift": "Evening",
+                        "timing": "04:30 pm  to  06:00 pm"
+                    },
+                    {
+                        "day": "Sat",
+                        "shift": "Evening",
+                        "timing": "04:30 pm  to  06:00 pm"
+                    }
+                ]
+            }
+        ]
     },
     {
-        "name": "N/A",
-        "qualifications": "Dr.  Amanullah  Khan",
-        "department": "N/A",
-        "clinics": []
+        "name": "Prof. Dr. Muhammad Arshad",
+        "qualifications": "FRCS",
+        "department": "Paediatric Surgery",
+        "clinics": [
+            {
+                "clinic_name": "Paediatrics Urology And Nephrology Clinic",
+                "location": "Liaquat National Hospital",
+                "contact": "02134412474, 02134413036",
+                "timings": [
+                    {
+                        "day": "N/A",
+                        "shift": "N/A",
+                        "timing": "N/A"
+                    },
+                    {
+                        "day": "Mon",
+                        "shift": "Afternoon",
+                        "timing": "02:00 pm  to  04:30 pm"
+                    },
+                    {
+                        "day": "Tue",
+                        "shift": "Afternoon",
+                        "timing": "02:00 pm  to  04:30 pm"
+                    },
+                    {
+                        "day": "Wed",
+                        "shift": "Morning",
+                        "timing": "09:00 am  to  01:00 pm"
+                    },
+                    {
+                        "day": "Thu",
+                        "shift": "Morning",
+                        "timing": "09:00 am  to  11:30 am"
+                    },
+                    {
+                        "day": "Fri",
+                        "shift": "Morning",
+                        "timing": "09:00 am  to  01:00 pm"
+                    }
+                ]
+            }
+        ]
     },
     {
-        "name": "N/A",
-        "qualifications": "Dr.  Amanullah  Khan",
-        "department": "N/A",
-        "clinics": []
+        "name": "Prof. Dr. Shabbir Hussain",
+        "qualifications": "FRCS",
+        "department": "Paediatric Surgery",
+        "clinics": [
+            {
+                "clinic_name": "Paediatrics Surgery Clinic",
+                "location": "Liaquat National Hospital",
+                "contact": "02134412474, 02134413036",
+                "timings": [
+                    {
+                        "day": "N/A",
+                        "shift": "N/A",
+                        "timing": "N/A"
+                    },
+                    {
+                        "day": "Mon",
+                        "shift": "Morning",
+                        "timing": "09:00 am  to  11:30 am"
+                    },
+                    {
+                        "day": "Tue",
+                        "shift": "Morning",
+                        "timing": "09:00 am  to  01:00 pm"
+                    },
+                    {
+                        "day": "Wed",
+                        "shift": "Afternoon",
+                        "timing": "02:00 pm  to  04:30 pm"
+                    },
+                    {
+                        "day": "Thu",
+                        "shift": "Afternoon",
+                        "timing": "02:00 pm  to  04:30 pm"
+                    },
+                    {
+                        "day": "Sat",
+                        "shift": "Morning",
+                        "timing": "09:00 am  to  01:00 pm"
+                    }
+                ]
+            }
+        ]
     }
+   
 ]

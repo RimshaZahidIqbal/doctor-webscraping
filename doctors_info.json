@@ -637,7 +637,7 @@
         }
     },
     {
-        "name": "Dr. Humera Shaikh​",
+        "name": "Dr. Humera Shaikh\u200b",
         "education": "MBBS, MCPS",
         "hospital": "Pak International Hospital",
         "position": "Consultant Pediatrician",
@@ -707,5 +707,175 @@
                 "Saturday": "04:00 PM to 05:00 PM"
             }
         }
+    },
+    {
+        "name": "N/A",
+        "qualifications": "FCPS",
+        "department": "N/A",
+        "clinics": [
+            {
+                "clinic_name": "Paediatrics Urology And Nephrology Clinic",
+                "location": "Liaquat National Hospital",
+                "contact": "02134412474, 02134413036",
+                "timings": [
+                    {
+                        "day": "N/A",
+                        "shift": "N/A",
+                        "timing": "N/A"
+                    },
+                    {
+                        "day": "Mon",
+                        "shift": "Morning",
+                        "timing": "11:30 am  to  02:00 pm"
+                    },
+                    {
+                        "day": "Thu",
+                        "shift": "Morning",
+                        "timing": "11:30 am  to  02:00 pm"
+                    },
+                    {
+                        "day": "Fri",
+                        "shift": "Afternoon",
+                        "timing": "02:00 pm  to  04:30 pm"
+                    },
+                    {
+                        "day": "Sat",
+                        "shift": "Afternoon",
+                        "timing": "02:00 pm  to  04:29 pm"
+                    },
+                    {
+                        "day": "N/A",
+                        "shift": "N/A",
+                        "timing": "N/A"
+                    },
+                    {
+                        "day": "N/A",
+                        "shift": "N/A",
+                        "timing": "N/A"
+                    },
+                    {
+                        "day": "Fri",
+                        "shift": "Morning",
+                        "timing": "10:00 am  to  01:00 pm"
+                    }
+                ]
+            },
+            {
+                "clinic_name": "Paediatrics Stone Management Clinic",
+                "location": "Liaquat National Hospital",
+                "contact": "02134413199",
+                "timings": [
+                    {
+                        "day": "N/A",
+                        "shift": "N/A",
+                        "timing": "N/A"
+                    },
+                    {
+                        "day": "Wed",
+                        "shift": "Evening",
+                        "timing": "04:30 pm  to  06:00 pm"
+                    },
+                    {
+                        "day": "Sat",
+                        "shift": "Evening",
+                        "timing": "04:30 pm  to  06:00 pm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "N/A",
+        "qualifications": "FRCS",
+        "department": "N/A",
+        "clinics": [
+            {
+                "clinic_name": "Paediatrics Urology And Nephrology Clinic",
+                "location": "Liaquat National Hospital",
+                "contact": "02134412474, 02134413036",
+                "timings": [
+                    {
+                        "day": "N/A",
+                        "shift": "N/A",
+                        "timing": "N/A"
+                    },
+                    {
+                        "day": "Mon",
+                        "shift": "Afternoon",
+                        "timing": "02:00 pm  to  04:30 pm"
+                    },
+                    {
+                        "day": "Tue",
+                        "shift": "Afternoon",
+                        "timing": "02:00 pm  to  04:30 pm"
+                    },
+                    {
+                        "day": "Wed",
+                        "shift": "Morning",
+                        "timing": "09:00 am  to  01:00 pm"
+                    },
+                    {
+                        "day": "Thu",
+                        "shift": "Morning",
+                        "timing": "09:00 am  to  11:30 am"
+                    },
+                    {
+                        "day": "Fri",
+                        "shift": "Morning",
+                        "timing": "09:00 am  to  01:00 pm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "N/A",
+        "qualifications": "FRCS",
+        "department": "N/A",
+        "clinics": [
+            {
+                "clinic_name": "Paediatrics Surgery Clinic",
+                "location": "Liaquat National Hospital",
+                "contact": "02134412474, 02134413036",
+                "timings": [
+                    {
+                        "day": "N/A",
+                        "shift": "N/A",
+                        "timing": "N/A"
+                    },
+                    {
+                        "day": "Mon",
+                        "shift": "Morning",
+                        "timing": "09:00 am  to  11:30 am"
+                    },
+                    {
+                        "day": "Tue",
+                        "shift": "Morning",
+                        "timing": "09:00 am  to  01:00 pm"
+                    },
+                    {
+                        "day": "Wed",
+                        "shift": "Afternoon",
+                        "timing": "02:00 pm  to  04:30 pm"
+                    },
+                    {
+                        "day": "Thu",
+                        "shift": "Afternoon",
+                        "timing": "02:00 pm  to  04:30 pm"
+                    },
+                    {
+                        "day": "Sat",
+                        "shift": "Morning",
+                        "timing": "09:00 am  to  01:00 pm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "N/A",
+        "qualifications": "N/A",
+        "department": "N/A",
+        "clinics": []
     }
 ]
