@@ -587,60 +587,125 @@
             "Wednesday": "04:00 PM To 06:00 PM",
             "Saturday": "04:00 PM To 06:00 PM"
         }
+    },
+    {
+        "name": "Prof. Dr. M. Iqbal Afridi",
+        "education": "MBBS, MCPS PSYCH, FCPS PSYCH (PAK), FACP (USA), FRCP (Ireland)",
+        "hospital": "Pak International Hospital",
+        "position": "Consultant Neuro-psychiatrist & Addictionologist",
+        "clinic": {
+            "days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday"
+            ],
+            "timing": {
+                "Monday": "6:00 PM to 10:00 PM",
+                "Tuesday": "6:00 PM to 10:00 PM",
+                "Wednesday": "6:00 PM to 10:00 PM",
+                "Thursday": "6:00 PM to 10:00 PM",
+                "Friday": "6:00 PM to 10:00 PM",
+                "Saturday": "6:00 PM to 10:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Rozeena Dharwarwala",
+        "education": "M.Phil (Clinical Psychology) ICD, KU. Forensic Mental Health Training SOFMH, NHS Scotland",
+        "hospital": "Pak International Hospital",
+        "position": "Clinical Psychologist & Hypnotherapist",
+        "clinic": {
+            "days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday"
+            ],
+            "timing": {
+                "Monday": "4:00 PM to 10:00 PM",
+                "Tuesday": "4:00 PM to 10:00 PM",
+                "Wednesday": "4:00 PM to 10:00 PM",
+                "Thursday": "4:00 PM to 10:00 PM",
+                "Friday": "4:00 PM to 10:00 PM",
+                "Saturday": "4:00 PM to 10:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Dr. Humera Shaikh​",
+        "education": "MBBS, MCPS",
+        "hospital": "Pak International Hospital",
+        "position": "Consultant Pediatrician",
+        "clinic": {
+            "days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday"
+            ],
+            "timing": {
+                "Monday": "02:00 PM to 04:00 PM",
+                "Tuesday": "02:00 PM to 04:00 PM",
+                "Wednesday": "02:00 PM to 04:00 PM",
+                "Thursday": "02:00 PM to 04:00 PM",
+                "Friday": "02:00 PM to 04:00 PM",
+                "Saturday": "02:00 PM to 04:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Dr. Balram Das",
+        "education": "MBBS, DCH",
+        "hospital": "Pak International Hospital",
+        "position": "Consultant Pediatrician",
+        "clinic": {
+            "days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday"
+            ],
+            "timing": {
+                "Monday": "04:00 PM to 06:00 PM",
+                "Tuesday": "04:00 PM to 06:00 PM",
+                "Wednesday": "04:00 PM to 06:00 PM",
+                "Thursday": "04:00 PM to 06:00 PM",
+                "Friday": "04:00 PM to 06:00 PM",
+                "Saturday": "04:00 PM to 06:00 PM"
+            }
+        }
+    },
+    {
+        "name": "Dr. Ejaz Ahmed",
+        "education": "MBBS, DCH",
+        "hospital": "Pak International Hospital",
+        "position": "Consultant Pediatrician",
+        "clinic": {
+            "days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday"
+            ],
+            "timing": {
+                "Monday": "04:00 PM to 05:00 PM",
+                "Tuesday": "04:00 PM to 05:00 PM",
+                "Wednesday": "04:00 PM to 05:00 PM",
+                "Thursday": "04:00 PM to 05:00 PM",
+                "Friday": "04:00 PM to 05:00 PM",
+                "Saturday": "04:00 PM to 05:00 PM"
+            }
+        }
     }
-
-
-,
-        {
-            "name": "Prof. Dr. M. Iqbal Afridi",
-            "education": "MBBS, MCPS PSYCH, FCPS PSYCH (PAK), FACP (USA), FRCP (Ireland)",
-            "hospital": "Pak International Hospital",
-            "position": "Consultant Neuro-psychiatrist & Addictionologist",
-            "clinic": {
-                "days": [
-                    "Monday",
-                    "Tuesday",
-                    "Wednesday",
-                    "Thursday",
-                    "Friday",
-                    "Saturday"
-                ],
-                "timing": {
-                    "Monday": "6:00 PM to 10:00 PM",
-                    "Tuesday": "6:00 PM to 10:00 PM",
-                    "Wednesday": "6:00 PM to 10:00 PM",
-                    "Thursday": "6:00 PM to 10:00 PM",
-                    "Friday": "6:00 PM to 10:00 PM",
-                    "Saturday": "6:00 PM to 10:00 PM"
-                }
-            }
-        },
-        {
-            "name": "Rozeena Dharwarwala",
-            "education": "M.Phil (Clinical Psychology) ICD, KU. Forensic Mental Health Training SOFMH, NHS Scotland",
-            "hospital": "Not specified",
-            "position": "Clinical Psychologist & Hypnotherapist",
-            "clinic": {
-                "days": [
-                    "Monday",
-                    "Tuesday",
-                    "Wednesday",
-                    "Thursday",
-                    "Friday",
-                    "Saturday"
-                ],
-                "timing": {
-                    "Monday": "4:00 PM to 10:00 PM",
-                    "Tuesday": "4:00 PM to 10:00 PM",
-                    "Wednesday": "4:00 PM to 10:00 PM",
-                    "Thursday": "4:00 PM to 10:00 PM",
-                    "Friday": "4:00 PM to 10:00 PM",
-                    "Saturday": "4:00 PM to 10:00 PM"
-                }
-            }
-        },
-        
- 
-
-
 ]
