@@ -1,80 +1,141 @@
 [
     {
-        "name": "Dr. Hina Yousuf",
-        "qualifications": "FCPS",
-        "department": " Paediatric Surgery",
+        "name": "Dr. Feroza Saleem",
+        "qualifications": "MBBS, FCPS",
+        "department": "Neurology",
+        "hospital": "Liaquat National Hospital",
         "clinics": [
             {
-                "clinic_name": "Paediatrics Urology And Nephrology Clinic",
+                "clinic_name": "Neurology Specialized Clinic",
+                "location": "Nazimabad",
+                "contact": "021-36615855",
+                "timings": [
+                    {
+                        "day": "Thu",
+                        "shift": "Evening",
+                        "timing": "05:00 pm  to  06:30 pm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dr. Hazim M. Yousuf Brohi",
+        "qualifications": "FCPS (Neurology)",
+        "department": "Neurology",
+        "hospital": "Liaquat National Hospital",
+        "clinics": [
+            {
+                "clinic_name": "Neurology Clinic",
                 "location": "Liaquat National Hospital",
-                "contact": "02134412474, 02134413036",
+                "contact": "02134412531, 02134412534",
                 "timings": [
                     {
                         "day": "Mon",
                         "shift": "Morning",
-                        "timing": "11:30 am  to  02:00 pm"
+                        "timing": "09:00 am  to  01:00 pm"
+                    },
+                    {
+                        "day": "Wed",
+                        "shift": "Afternoon",
+                        "timing": "01:30 pm  to  02:59 pm"
                     },
                     {
                         "day": "Thu",
                         "shift": "Morning",
-                        "timing": "11:30 am  to  02:00 pm"
+                        "timing": "09:00 am  to  01:00 pm"
                     },
                     {
-                        "day": "Fri",
-                        "shift": "Afternoon",
-                        "timing": "02:00 pm  to  04:30 pm"
-                    },
-                    {
-                        "day": "Sat",
-                        "shift": "Afternoon",
-                        "timing": "02:00 pm  to  04:29 pm"
-                    },
-                    {
-                        "day": "Fri",
-                        "shift": "Morning",
-                        "timing": "10:00 am  to  01:00 pm"
+                        "day": "Thu",
+                        "shift": "Evening",
+                        "timing": "04:00 pm  to  06:00 pm"
                     }
                 ]
             },
             {
-                "clinic_name": "Paediatrics Stone Management Clinic",
+                "clinic_name": "Neurology Specialized Clinic",
                 "location": "Liaquat National Hospital",
-                "contact": "02134413199",
+                "contact": "02134412531, 02134412534",
                 "timings": [
-                 
                     {
                         "day": "Wed",
                         "shift": "Evening",
-                        "timing": "04:30 pm  to  06:00 pm"
-                    },
-                    {
-                        "day": "Sat",
-                        "shift": "Evening",
-                        "timing": "04:30 pm  to  06:00 pm"
+                        "timing": "03:00 pm  to  05:00 pm"
                     }
                 ]
             }
         ]
     },
     {
-        "name": "Prof. Dr. Muhammad Arshad",
-        "qualifications": "FRCS",
-        "department": "Paediatric Surgery",
+        "name": "Dr. Naveed Uddin Ahmed",
+        "qualifications": "FCPS (Medicine & Neurology)",
+        "department": "Neurology",
+        "hospital": "Liaquat National Hospital",
         "clinics": [
             {
-                "clinic_name": "Paediatrics Urology And Nephrology Clinic",
+                "clinic_name": "Neurology Clinic",
                 "location": "Liaquat National Hospital",
                 "contact": "02134412474, 02134413036",
                 "timings": [
                     {
-                        "day": "N/A",
-                        "shift": "N/A",
-                        "timing": "N/A"
+                        "day": "Thu",
+                        "shift": "Evening",
+                        "timing": "04:30 pm  to  06:30 pm"
+                    },
+                    {
+                        "day": "Sat",
+                        "shift": "Evening",
+                        "timing": "04:31 pm  to  09:00 pm"
+                    },
+                    {
+                        "day": "Tue",
+                        "shift": "Morning",
+                        "timing": "09:00 am  to  01:00 pm"
+                    },
+                    {
+                        "day": "Wed",
+                        "shift": "Morning",
+                        "timing": "09:00 am  to  01:00 pm"
+                    },
+                    {
+                        "day": "Sat",
+                        "shift": "Afternoon",
+                        "timing": "02:00 pm  to  04:30 pm"
+                    },
+                    {
+                        "day": "Sat",
+                        "shift": "Morning",
+                        "timing": "09:00 am  to  01:00 pm"
+                    },
+                    {
+                        "day": "Sun",
+                        "shift": "Morning",
+                        "timing": "09:00 am  to  01:00 pm"
                     },
                     {
                         "day": "Mon",
                         "shift": "Afternoon",
-                        "timing": "02:00 pm  to  04:30 pm"
+                        "timing": "01:30 pm  to  04:00 pm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dr. Rajesh Kumar",
+        "qualifications": "FCPS (Neurology)",
+        "department": "Neurology",
+        "hospital": "Liaquat National Hospital",
+        "clinics": [
+            {
+                "clinic_name": "Neurology Clinic",
+                "location": "Liaquat National Hospital",
+                "contact": "02134412531, 02134412534",
+                "timings": [
+                    {
+                        "day": "Mon",
+                        "shift": "Evening",
+                        "timing": "04:00 pm  to  06:00 pm"
                     },
                     {
                         "day": "Tue",
@@ -87,9 +148,49 @@
                         "timing": "09:00 am  to  01:00 pm"
                     },
                     {
-                        "day": "Thu",
+                        "day": "Fri",
                         "shift": "Morning",
-                        "timing": "09:00 am  to  11:30 am"
+                        "timing": "09:00 am  to  01:00 pm"
+                    },
+                    {
+                        "day": "Fri",
+                        "shift": "Evening",
+                        "timing": "04:00 pm  to  06:00 pm"
+                    },
+                    {
+                        "day": "Thu",
+                        "shift": "Evening",
+                        "timing": "04:00 pm  to  05:00 pm"
+                    },
+                    {
+                        "day": "Sun",
+                        "shift": "Morning",
+                        "timing": "11:00 am  to  02:00 pm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dr. Saba Zaidi",
+        "qualifications": "FCPS (Neurology)",
+        "department": "Neurology",
+        "hospital": "Liaquat National Hospital",
+        "clinics": [
+            {
+                "clinic_name": "Neurology Clinic",
+                "location": "Liaquat National Hospital",
+                "contact": "02134412531, 02134412534",
+                "timings": [
+                    {
+                        "day": "Mon",
+                        "shift": "Morning",
+                        "timing": "09:00 am  to  01:00 pm"
+                    },
+                    {
+                        "day": "Thu",
+                        "shift": "Afternoon",
+                        "timing": "02:00 pm  to  04:30 pm"
                     },
                     {
                         "day": "Fri",
@@ -97,28 +198,30 @@
                         "timing": "09:00 am  to  01:00 pm"
                     }
                 ]
+            },
+            {
+                "clinic_name": "Geriatrics Clinic",
+                "location": "Liaquat National Hospital",
+                "contact": "02134413199",
+                "timings": []
             }
         ]
     },
     {
-        "name": "Prof. Dr. Shabbir Hussain",
-        "qualifications": "FRCS",
-        "department": "Paediatric Surgery",
+        "name": "Dr. Syed Ahmed Asif",
+        "qualifications": "FCPS (Neurology)",
+        "department": "Neurology",
+        "hospital": "Liaquat National Hospital",
         "clinics": [
             {
-                "clinic_name": "Paediatrics Surgery Clinic",
+                "clinic_name": "Neurology Clinic",
                 "location": "Liaquat National Hospital",
-                "contact": "02134412474, 02134413036",
+                "contact": "02134412531, 02134412534",
                 "timings": [
                     {
-                        "day": "N/A",
-                        "shift": "N/A",
-                        "timing": "N/A"
-                    },
-                    {
                         "day": "Mon",
-                        "shift": "Morning",
-                        "timing": "09:00 am  to  11:30 am"
+                        "shift": "Afternoon",
+                        "timing": "02:00 pm  to  04:30 pm"
                     },
                     {
                         "day": "Tue",
@@ -126,23 +229,63 @@
                         "timing": "09:00 am  to  01:00 pm"
                     },
                     {
-                        "day": "Wed",
-                        "shift": "Afternoon",
-                        "timing": "02:00 pm  to  04:30 pm"
-                    },
-                    {
                         "day": "Thu",
-                        "shift": "Afternoon",
-                        "timing": "02:00 pm  to  04:30 pm"
+                        "shift": "Morning",
+                        "timing": "09:00 am  to  01:00 pm"
                     },
                     {
                         "day": "Sat",
                         "shift": "Morning",
                         "timing": "09:00 am  to  01:00 pm"
+                    },
+                    {
+                        "day": "Sat",
+                        "shift": "Evening",
+                        "timing": "04:00 pm  to  06:00 pm"
+                    },
+                    {
+                        "day": "Wed",
+                        "shift": "Afternoon",
+                        "timing": "02:00 pm  to  04:00 pm"
+                    }
+                ]
+            },
+            {
+                "clinic_name": "Neurology Specialized Clinic",
+                "location": "Nazimabad",
+                "contact": "021-36615855",
+                "timings": [
+                    {
+                        "day": "Tue",
+                        "shift": "Evening",
+                        "timing": "07:00 pm  to  08:00 pm"
+                    },
+                    {
+                        "day": "Thu",
+                        "shift": "Afternoon",
+                        "timing": "02:00 pm  to  04:00 pm"
+                    }
+                ]
+            },
+            {
+                "clinic_name": "Neurology Specialized Epilepsy Clinic",
+                "location": "Liaquat National Hospital",
+                "contact": "02134412531, 02134412534",
+                "timings": [
+                    {
+                        "day": "Tue",
+                        "shift": "Afternoon",
+                        "timing": "02:00 pm  to  03:00 pm"
                     }
                 ]
             }
         ]
+    },
+    {
+        "name": "N/A",
+        "qualifications": "N/A",
+        "department": "Neurology",
+        "hospital": "Liaquat National Hospital",
+        "clinics": []
     }
-   
 ]
