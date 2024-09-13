@@ -1,0 +1,95 @@
+[
+    {
+        "name": "DR AJAY KUMAR NANKANI",
+        "qualifications": [
+            "MBBS,FCPS(Psych)",
+            "Consultant Psychiatrist"
+        ],
+        "timings": [
+            "FRIDAY",
+            "03:00 P.M."
+        ],
+        "hospital": "Holy Family Hospital"
+    },
+    {
+        "name": "DR.MEHWISH BUTT (NEURO PHY)",
+        "qualifications": [
+            "FCPS"
+        ],
+        "timings": [
+            "THURSDAY",
+            "4:00 PM"
+        ],
+        "hospital": "Holy Family Hospital"
+    },
+    {
+        "name": "DR.SURESH KUMAR",
+        "qualifications": [
+            "FCPS"
+        ],
+        "timings": [
+            "MONDAY & WEDNESDAY",
+            "05:00 TO 06:00 PM"
+        ],
+        "hospital": "Holy Family Hospital"
+    },
+    {
+        "name": "DR.SOBIA TABBASUM",
+        "qualifications": [
+            "FCPS,MCPS,PCH"
+        ],
+        "timings": [
+            "MON,FRI &SATURDAY",
+            "1:00 PM TO 02:30 PM"
+        ],
+        "hospital": "Holy Family Hospital"
+    },
+    {
+        "name": "DR.RUKHSANA TARIQ",
+        "qualifications": [
+            "MBBS,MCPS",
+            "Child Specialist"
+        ],
+        "timings": [
+            "MONDAY TO SATURDAY",
+            "(FRIDAY OFF)",
+            "09:30 A.M. TO 11:30 A.M"
+        ],
+        "hospital": "Holy Family Hospital"
+    },
+    {
+        "name": "DR.GULAB RAI",
+        "qualifications": [
+            "MCPS,PGPN"
+        ],
+        "timings": [
+            "MONDAY TO FRIDAY",
+            "05:00 P.M. TO 06:00 P.M"
+        ],
+        "hospital": "Holy Family Hospital"
+    },
+    {
+        "name": "DR. VARSHA RANI RAI",
+        "qualifications": [
+            "MBBS,MCPS",
+            "Child Specialist"
+        ],
+        "timings": [
+            "TUESDAY, WED & THUR",
+            "02:30 PM TO 03:30 PM"
+        ],
+        "hospital": "Holy Family Hospital"
+    },
+    {
+        "name": "DR.M.A. GOWA",
+        "qualifications": [
+            "MBBS,FCPS,(Peads Medicine)",
+            "Assistant Professor  Consultant Pediatrician"
+        ],
+        "timings": [
+            "MONDAY TO FRIDAY",
+            "04:00 P.M. TO 08:00 P.M"
+        ],
+        "hospital": "Holy Family Hospital"
+    }
+]
