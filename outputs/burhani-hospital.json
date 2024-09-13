@@ -1,0 +1,121 @@
+[
+    {
+        "name": "DR. SALEEM PATEL",
+        "image ": "",
+        "position": "Child Specialist",
+        "hospital": "Burhani Hospital",
+        "qualifications": "MBBS , MCPS , FCPS (Pediatrics)",
+        "timings": {
+            "Tuesday & Friday": "05:30 PM To 06:30 PM",
+            "Sunday": "1:00 PM To 3:00 PM"
+        }
+    },
+    {
+        "name": "DR. HAJI SALEEM",
+        "image ": "",
+        "position": "Child Specialist",
+        "hospital": "Burhani Hospital",
+        "qualifications": "MBBS , MCPS (Pediatrics)",
+        "timings": {
+            "Monday": "12:00 PM To 2:00 PM",
+            "Wednesday & Friday": "12:00 PM To 2:00 PM"
+        }
+    },
+    {
+        "name": "DR. VED VASWANI",
+        "image ": "",
+        "position": "Child Specialist",
+        "hospital": "Burhani Hospital",
+        "qualifications": "MBBS , MCPS (Pediatrics)",
+        "timings": {
+            "Monday To Saturday": "08:00 PM To 10:00 PM",
+            "Sunday": "12:00 PM To 01:00 PM"
+        }
+    },
+    {
+        "name": "DR. BALRAM DAS",
+        "image ": "",
+        "position": "Child Specialist",
+        "hospital": "Burhani Hospital",
+        "qualifications": "MBBS , Diploma in Child Health (Pediatrics)",
+        "timings": {
+            "Tuesday": "07:00 PM To 08:00 PM",
+            "Thursday & Saturday": "07:00 PM To 08:00 PM"
+        }
+    },
+    {
+        "name": "DR. SHEHZAD ALI",
+        "image ": "",
+        "position": "Child Specialist",
+        "hospital": "Burhani Hospital",
+        "qualifications": "MBBS , Diploma in Child Health",
+        "timings": {
+            "Monday & Thursday": "05:30 PM To 07:00 PM",
+            "Tuesday & Saturday": "01:30 PM To 03:00 PM"
+        }
+    },
+    {
+        "name": "DR. RAJ KUMAR",
+        "image ": "",
+        "position": "Child Specialist",
+        "hospital": "Burhani Hospital",
+        "qualifications": "MBBS , DIP (Pediatric Medicine) , MCPS (Family Medicine)",
+        "timings": {
+            "Tuesday": "11:00 AM To 01:00 PM",
+            "Thursday & Saturday": "11:00 AM To 01:00 PM"
+        }
+    },
+    {
+        "name": "DR. HASNAIN LOKHANDWALA",
+        "image ": "",
+        "position": "Child Specialist",
+        "hospital": "Burhani Hospital",
+        "qualifications": "MBBS , Diploma in Child Health (Pediatrics)",
+        "timings": {
+            "Monday To Friday": "3:00 PM To 5:00 PM",
+            "Saturday": "04:30 PM To 07:00 PM",
+            "Sunday": "04:00 PM To 06:00 PM"
+        }
+    },
+    {
+        "name": "Dr. Dileep Kumar",
+        "image ": "",
+        "position": "Neurologist",
+        "hospital": "Burhani Hospital",
+        "qualifications": "MBBS , FCPS (Neurology)",
+        "timings": {
+            "Tuesday": "8:00 PM To 9:00 PM",
+            "Thursday": "8:00 PM To 9:00 PM"
+        }
+    },
+    {
+        "name": "Dr. Mohan Lal",
+        "image ": "",
+        "position": "Neurologist",
+        "hospital": "Burhani Hospital",
+        "qualifications": "MBBS , Diploma in Clinical Neurology",
+        "timings": {
+            "Tuesday": "03:00 PM To 04:00 PM"
+        }
+    },
+    {
+        "name": "DR. CHOONI LAL",
+        "image ": "",
+        "position": "Psychiatrist",
+        "hospital": "Burhani Hospital",
+        "qualifications": "MBBS , FCPS (Psychiatry)",
+        "timings": {
+            "Tuesday & Thursday": "8:30 PM To 9:30 PM"
+        }
+    },
+    {
+        "name": "DR. ANAND KUMAR",
+        "image ": "",
+        "position": "Psychiatrist",
+        "hospital": "Burhani Hospital",
+        "qualifications": "MBBS , FCPS (Psychiatry)",
+        "timings": {
+            "Wednesday & Saturday": "04:00 PM To 06:00 PM"
+        }
+    }
+]
