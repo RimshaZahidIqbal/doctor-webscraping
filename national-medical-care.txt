@@ -1,0 +1,764 @@
+<div class="doctorbar row" data-name="MR. MUHAMMAD IRFAN SAJID, DR." data-speciality="PEDIATRICIAN" data-degrees="MBBS, FCPS" style="">
+		<div class="section2">
+			<img src="/labportal/Content/Images/DoctorIcon.png" style="margin: 20px 0px 0px 0px; float: left;">
+			<div style="width:70%;float:left; margin: 15px 0px 0px 10px;">
+				<p style="font-size: 1rem; word-break:break-all;"><b>MUHAMMAD IRFAN SAJID, DR.</b></p>
+				<p style="font-size: 0.8rem; word-break:break-all;">PEDIATRICIAN</p>
+				<p style="font-size: 0.8rem; word-break:break-all;">MBBS, FCPS</p>
+			</div>
+		</div>
+
+			<div id="NormalTiming" class="section3">
+				<div class="section3head">Timing Schedule</div>
+
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Monday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>01:00 PM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>07:00 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Tuesday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>01:00 PM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>07:00 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Wednesday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>01:00 PM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>07:00 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Thursday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>01:00 PM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>07:00 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Friday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>01:00 PM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>07:00 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Saturday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>01:00 PM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>07:00 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable1">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Sunday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>-</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>-</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+			</div>
+
+			<div class="row">
+				
+				
+
+				<div class="col-md-7">
+
+						<div style="text-align:left; width:100%; display:inline-block;float:left; color:#000000; font-weight:bold; border-radius: 5px;padding: 2px;margin-bottom:1px;margin-top:3px"><span style="text-align:center;display:inline-block;color:#fff;font-weight:bold;background: #0033CC;border-radius: 5px;padding: 2px;padding-left: 6px;padding-right: 6px;">Patient Serving Remarks:</span> First Come First Serve</div>
+											<div style="text-align:left; width:100%; display:inline-block; float:left; color:#000000; font-weight:bold; border-radius: 5px;padding: 2px;margin-bottom:3px">Token Note: Number allocation will be start after 08:00 am on same OPD day with first come first basis.
+</div>
+
+
+						<div style="text-align:center; width:100%; display:inline-block; margin-top:10px; color:#ed1e24; font-weight:bold;"></div>
+				</div>
+			</div>
+	</div>
+    <div class="doctorbar row" data-name="MR. NAND LAL MOORPANI, DR." data-speciality="PEDIATRICIAN" data-degrees="MBBS, MCPS, DCH, MD" style="">
+		<div class="section2">
+			<img src="/labportal/Content/Images/DoctorIcon.png" style="margin: 20px 0px 0px 0px; float: left;">
+			<div style="width:70%;float:left; margin: 15px 0px 0px 10px;">
+				<p style="font-size: 1rem; word-break:break-all;"><b>NAND LAL MOORPANI, DR.</b></p>
+				<p style="font-size: 0.8rem; word-break:break-all;">PEDIATRICIAN</p>
+				<p style="font-size: 0.8rem; word-break:break-all;">MBBS, MCPS, DCH, MD</p>
+			</div>
+		</div>
+
+			<div id="NormalTiming" class="section3">
+				<div class="section3head">Timing Schedule</div>
+
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Monday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>08:00 PM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>09:30 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Tuesday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>08:00 PM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>09:30 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Wednesday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>08:00 PM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>09:30 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Thursday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>08:00 PM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>09:30 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Friday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>08:00 PM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>09:30 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Saturday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>08:00 PM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>09:30 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable1">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Sunday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>-</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>-</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+			</div>
+
+			<div class="row">
+				
+				
+
+				<div class="col-md-7">
+
+						<div style="text-align:left; width:100%; display:inline-block;float:left; color:#000000; font-weight:bold; border-radius: 5px;padding: 2px;margin-bottom:1px;margin-top:3px"><span style="text-align:center;display:inline-block;color:#fff;font-weight:bold;background: #0033CC;border-radius: 5px;padding: 2px;padding-left: 6px;padding-right: 6px;">Patient Serving Remarks:</span> First Come First Serve</div>
+											<div style="text-align:left; width:100%; display:inline-block; float:left; color:#000000; font-weight:bold; border-radius: 5px;padding: 2px;margin-bottom:3px">Token Note: Number allocation will be start after 03:00 pm on same OPD day with first come first basis.
+</div>
+
+
+						<div style="text-align:center; width:100%; display:inline-block; margin-top:10px; color:#ed1e24; font-weight:bold;"></div>
+				</div>
+			</div>
+	</div><div class="doctorbar row" data-name="MR. NAND LAL MOORPANI, DR." data-speciality="PEDIATRICIAN" data-degrees="MBBS, MCPS, DCH, MD" style="">
+		<div class="section2">
+			<img src="/labportal/Content/Images/DoctorIcon.png" style="margin: 20px 0px 0px 0px; float: left;">
+			<div style="width:70%;float:left; margin: 15px 0px 0px 10px;">
+				<p style="font-size: 1rem; word-break:break-all;"><b>NAND LAL MOORPANI, DR.</b></p>
+				<p style="font-size: 0.8rem; word-break:break-all;">PEDIATRICIAN</p>
+				<p style="font-size: 0.8rem; word-break:break-all;">MBBS, MCPS, DCH, MD</p>
+			</div>
+		</div>
+
+			<div id="NormalTiming" class="section3">
+				<div class="section3head">Timing Schedule</div>
+
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Monday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>08:00 PM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>09:30 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Tuesday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>08:00 PM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>09:30 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Wednesday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>08:00 PM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>09:30 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Thursday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>08:00 PM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>09:30 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Friday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>08:00 PM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>09:30 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Saturday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>08:00 PM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>09:30 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable1">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Sunday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>-</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>-</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+			</div>
+
+			<div class="row">
+				
+				
+
+				<div class="col-md-7">
+
+						<div style="text-align:left; width:100%; display:inline-block;float:left; color:#000000; font-weight:bold; border-radius: 5px;padding: 2px;margin-bottom:1px;margin-top:3px"><span style="text-align:center;display:inline-block;color:#fff;font-weight:bold;background: #0033CC;border-radius: 5px;padding: 2px;padding-left: 6px;padding-right: 6px;">Patient Serving Remarks:</span> First Come First Serve</div>
+											<div style="text-align:left; width:100%; display:inline-block; float:left; color:#000000; font-weight:bold; border-radius: 5px;padding: 2px;margin-bottom:3px">Token Note: Number allocation will be start after 03:00 pm on same OPD day with first come first basis.
+</div>
+
+
+						<div style="text-align:center; width:100%; display:inline-block; margin-top:10px; color:#ed1e24; font-weight:bold;"></div>
+				</div>
+			</div>
+	</div><div class="doctorbar row" data-name="MR. SYED JAMAL RAZA, PROF." data-speciality="PEDIATRICIAN" data-degrees="MBBS, MRCP, FCPS" style="">
+		<div class="section2">
+			<img src="/labportal/Content/Images/DoctorIcon.png" style="margin: 20px 0px 0px 0px; float: left;">
+			<div style="width:70%;float:left; margin: 15px 0px 0px 10px;">
+				<p style="font-size: 1rem; word-break:break-all;"><b>SYED JAMAL RAZA, PROF.</b></p>
+				<p style="font-size: 0.8rem; word-break:break-all;">PEDIATRICIAN</p>
+				<p style="font-size: 0.8rem; word-break:break-all;">MBBS, MRCP, FCPS</p>
+			</div>
+		</div>
+
+			<div id="NormalTiming" class="section3">
+				<div class="section3head">Timing Schedule</div>
+
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Monday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>-</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>-</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Tuesday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>08:30 PM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>09:30 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Wednesday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>-</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>-</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Thursday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>08:30 PM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>09:30 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Friday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>-</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>-</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Saturday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>-</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>-</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable1">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Sunday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>-</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>-</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+			</div>
+
+			<div class="row">
+				
+				
+
+				<div class="col-md-7">
+
+						<div style="text-align:left; width:100%; display:inline-block;float:left; color:#000000; font-weight:bold; border-radius: 5px;padding: 2px;margin-bottom:1px;margin-top:3px"><span style="text-align:center;display:inline-block;color:#fff;font-weight:bold;background: #0033CC;border-radius: 5px;padding: 2px;padding-left: 6px;padding-right: 6px;">Patient Serving Remarks:</span> First Come First Serve</div>
+											<div style="text-align:left; width:100%; display:inline-block; float:left; color:#000000; font-weight:bold; border-radius: 5px;padding: 2px;margin-bottom:3px">Token Note: Number are allot by his PA after 07:30 pm on same OPD day.</div>
+
+
+						<div style="text-align:center; width:100%; display:inline-block; margin-top:10px; color:#ed1e24; font-weight:bold;"></div>
+				</div>
+			</div>
+	</div>
+    <div class="doctorbar row" data-name="MR. SYED KHURSHID ANWER, PROF." data-speciality="PEDIATRICIAN" data-degrees="MBBS, MRCP (UK), FRCP (GLASGOW)" style="">
+		<div class="section2">
+			<img src="/labportal/Content/Images/DoctorIcon.png" style="margin: 20px 0px 0px 0px; float: left;">
+			<div style="width:70%;float:left; margin: 15px 0px 0px 10px;">
+				<p style="font-size: 1rem; word-break:break-all;"><b>SYED KHURSHID ANWER, PROF.</b></p>
+				<p style="font-size: 0.8rem; word-break:break-all;">PEDIATRICIAN</p>
+				<p style="font-size: 0.8rem; word-break:break-all;">MBBS, MRCP (UK), FRCP (GLASGOW)</p>
+			</div>
+		</div>
+
+			<div id="NormalTiming" class="section3">
+				<div class="section3head">Timing Schedule</div>
+
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Monday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>11:00 AM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>04:00 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Tuesday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>11:00 AM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>04:00 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Wednesday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>11:00 AM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>04:00 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Thursday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>11:00 AM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>04:00 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Friday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>-</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>-</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Saturday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>11:00 AM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>04:00 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable1">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Sunday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>-</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>-</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+			</div>
+
+			<div class="row">
+				
+				
+
+				<div class="col-md-7">
+
+						<div style="text-align:left; width:100%; display:inline-block;float:left; color:#000000; font-weight:bold; border-radius: 5px;padding: 2px;margin-bottom:1px;margin-top:3px"><span style="text-align:center;display:inline-block;color:#fff;font-weight:bold;background: #0033CC;border-radius: 5px;padding: 2px;padding-left: 6px;padding-right: 6px;">Patient Serving Remarks:</span> First Come First Serve</div>
+											<div style="text-align:left; width:100%; display:inline-block; float:left; color:#000000; font-weight:bold; border-radius: 5px;padding: 2px;margin-bottom:3px">Token Note: Number allocation will be start after 08:00 am on same OPD day with first come first basis.
+</div>
+
+
+						<div style="text-align:center; width:100%; display:inline-block; margin-top:10px; color:#ed1e24; font-weight:bold;"></div>
+				</div>
+			</div>
+	</div>
+    <div class="doctorbar row" data-name="MS. ZEENAT ISANI, PROF." data-speciality="PEDIATRICIAN" data-degrees="MBBS, DCH, MRCP, FCPS, FRCP" style="">
+		<div class="section2">
+			<img src="/labportal/Content/Images/DoctorIcon.png" style="margin: 20px 0px 0px 0px; float: left;">
+			<div style="width:70%;float:left; margin: 15px 0px 0px 10px;">
+				<p style="font-size: 1rem; word-break:break-all;"><b>ZEENAT ISANI, PROF.</b></p>
+				<p style="font-size: 0.8rem; word-break:break-all;">PEDIATRICIAN</p>
+				<p style="font-size: 0.8rem; word-break:break-all;">MBBS, DCH, MRCP, FCPS, FRCP</p>
+			</div>
+		</div>
+
+			<div id="NormalTiming" class="section3">
+				<div class="section3head">Timing Schedule</div>
+
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Monday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>07:00 PM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>09:00 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Tuesday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>07:00 PM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>09:00 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Wednesday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>07:00 PM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>09:00 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Thursday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>07:00 PM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>09:00 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Friday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>07:00 PM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>09:00 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Saturday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>07:00 PM</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>09:00 PM</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+					<table class="section3headtable1">
+						<tbody>
+							<tr>
+								<td>
+									<b style="font-size: small;"><u>Sunday</u></b>
+								</td>
+							</tr>
+
+									<tr> <td>-</td> </tr>
+									<tr> <td>TO </td> </tr>
+									<tr> <td>-</td> </tr>
+									<tr style="height:10px;"></tr>
+						</tbody>
+					</table>
+			</div>
+
+			<div class="row">
+				
+				
+
+				<div class="col-md-7">
+
+						<div style="text-align:left; width:100%; display:inline-block;float:left; color:#000000; font-weight:bold; border-radius: 5px;padding: 2px;margin-bottom:1px;margin-top:3px"><span style="text-align:center;display:inline-block;color:#fff;font-weight:bold;background: #0033CC;border-radius: 5px;padding: 2px;padding-left: 6px;padding-right: 6px;">Patient Serving Remarks:</span> First Come First Serve</div>
+											<div style="text-align:left; width:100%; display:inline-block; float:left; color:#000000; font-weight:bold; border-radius: 5px;padding: 2px;margin-bottom:3px">Token Note: Number allocation will be start after 06:30 pm sharp by his PA on same OPD day.</div>
+
+
+						<div style="text-align:center; width:100%; display:inline-block; margin-top:10px; color:#ed1e24; font-weight:bold;"></div>
+				</div>
+			</div>
+	</div>
