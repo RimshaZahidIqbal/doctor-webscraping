@@ -2,7 +2,169 @@
     {
         "name": "Dr. Naima Zamir",
         "specialty": "PAEDIATRIC SURGEON",
-        "degree": "Degree\n                                        \n MBBS, FCPS ( Paeds Surgery), FCPS (General Surgery)",
+        "degree": "Degree MBBS, FCPS ( Paeds Surgery), FCPS (General Surgery)",
+        "timings": [
+            {
+                "time": "06:00 PM to 07:00 PM",
+                "days": "(Tue, Thu, Sat)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital",
+        "fees": ""
+    },
+    {
+        "name": "Dr. Raees  Hussain",
+        "specialty": "PAEDIATRIC SURGEON",
+        "degree": "Degree MBBS, FCPS (SURGEON)",
+        "timings": [
+            {
+                "time": "03:00 PM to 04:00 PM",
+                "days": "(Mon, Wed, Fri)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital",
+        "fees": ""
+    },
+    {
+        "name": "Dr. Anila  Haroon",
+        "specialty": "PEDIATRICIAN / CHILD SPECIALIST",
+        "degree": "Degree MBBS, DCH, FCPS",
+        "timings": [
+            {
+                "time": "01:30 PM to 06:00 PM",
+                "days": "(Mon)"
+            },
+            {
+                "time": "01:30 PM to 05:30 PM",
+                "days": "(Tue, Wed)"
+            },
+            {
+                "time": "09:30 AM to 01:00 PM & 04:00 PM to 06:00 PM",
+                "days": "(Thu)"
+            },
+            {
+                "time": "10:30 AM to 12:30 PM & 01:30 PM to 05:30 PM",
+                "days": "(Fri)"
+            },
+            {
+                "time": "9:30 AM to 4:30 PM",
+                "days": "(Sat)"
+            },
+            {
+                "time": "12:00 PM to 02:00 PM",
+                "days": "(Sun)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital",
+        "fees": ""
+    },
+    {
+        "name": "Dr. Brig.(R) Arshad Mahmood",
+        "specialty": "PEDIATRICIAN / CHILD SPECIALIST",
+        "degree": "Degree MBBS, DCH, FCPS",
+        "timings": [
+            {
+                "time": "09:00 AM to 01:00 PM & 06:00 PM to 09:00 PM",
+                "days": "(Mon, Wed, Sat)"
+            },
+            {
+                "time": "09:00 AM to 01:00 PM & 02:00 PM to 04:00 PM & 06:00 PM to 09:00 PM",
+                "days": "(Tue, Fri)"
+            },
+            {
+                "time": "01:00 PM to 04:00 PM & 06:00 PM to 09:00 PM",
+                "days": "(Thu)"
+            },
+            {
+                "time": "12:00 PM to 02:00 PM",
+                "days": "(Sun)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital",
+        "fees": ""
+    },
+    {
+        "name": "Dr. Fareed  uddin",
+        "specialty": "PEDIATRICIAN / CHILD SPECIALIST",
+        "degree": "Degree MBBS , DCH, MCPS, FCPS.",
+        "timings": [
+            {
+                "time": "05:00 PM to 08:00 PM",
+                "days": "(Mon, Tue, Wed, Thu, Fri, Sat)"
+            },
+            {
+                "time": "11:00 AM to 12:00 PM",
+                "days": "(Sun)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital",
+        "fees": ""
+    },
+    {
+        "name": "Prof. Dr. Ghaffar  Billo",
+        "specialty": "PEDIATRICIAN / CHILD SPECIALIST",
+        "degree": "Degree MBBS, DCH, MRCP, DTMH, FRCP",
+        "timings": [
+            {
+                "time": "10:00 AM to 02:00 PM",
+                "days": "(Tue)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital",
+        "fees": ""
+    },
+    {
+        "name": "Dr. Dileep  Kumar",
+        "specialty": "NEUROLOGIST/NEURO PHYSICIAN",
+        "degree": "Degree MBBS, FCPS",
+        "timings": [
+            {
+                "time": "03:00 PM to 05:00 PM",
+                "days": "(Mon, Wed, Fri)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital",
+        "fees": ""
+    },
+    {
+        "name": "Dr. Naseer  Ahmed",
+        "specialty": "NEUROLOGIST/NEURO PHYSICIAN",
+        "degree": "Degree MBBS, FCPS, Fellowship (Stroke)",
+        "timings": [
+            {
+                "time": "09:00 AM to 01:00 PM",
+                "days": "(Mon, Tue, Wed, Thu, Sat)"
+            },
+            {
+                "time": "09:00 AM to 12:00 PM",
+                "days": "(Fri)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital",
+        "fees": ""
+    },
+    {
+        "name": "Dr.Qurat  ul Ain",
+        "specialty": "NEUROLOGIST/NEURO PHYSICIAN",
+        "degree": "Degree MBBS, FCPS",
+        "timings": [
+            {
+                "time": "09:00AM TO 01:00PM",
+                "days": "(Mon, Wed, Fri)"
+            },
+            {
+                "time": "02:00PM TO 05:00PM",
+                "days": "(Tue, Thu, Sat)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital",
+        "fees": ""
+    },
+    {
+        "name": "Dr. Naima Zamir",
+        "specialty": "PAEDIATRIC SURGEON",
+        "fees": "Rs 1200",
+        "degree": "MBBS, FCPS ( Paeds Surgery), FCPS (General Surgery)",
         "timings": [
             {
                 "time": "06:00 PM to 07:00 PM",
@@ -12,9 +174,10 @@
         "hospital": "Memo Medical School Hospital"
     },
     {
-        "name": "Dr. Raees  Hussain",
+        "name": "Dr. Naima Zamir",
         "specialty": "PAEDIATRIC SURGEON",
-        "degree": "Degree\n                                        \n MBBS, FCPS (SURGEON)",
+        "fees": "Rs 1200",
+        "degree": "MBBS, FCPS ( Paeds Surgery), FCPS (General Surgery)",
         "timings": [
             {
                 "time": "03:00 PM to 04:00 PM",
@@ -24,9 +187,36 @@
         "hospital": "Memo Medical School Hospital"
     },
     {
-        "name": "Dr. Anila  Haroon",
+        "name": "Dr. Naima Zamir",
+        "specialty": "PAEDIATRIC SURGEON",
+        "fees": "Rs 1200",
+        "degree": "MBBS, FCPS ( Paeds Surgery), FCPS (General Surgery)",
+        "timings": [
+            {
+                "time": "06:00 PM to 07:00 PM",
+                "days": "(Tue, Thu, Sat)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital"
+    },
+    {
+        "name": "Dr. Naima Zamir",
+        "specialty": "PAEDIATRIC SURGEON",
+        "fees": "Rs 1200",
+        "degree": "MBBS, FCPS ( Paeds Surgery), FCPS (General Surgery)",
+        "timings": [
+            {
+                "time": "03:00 PM to 04:00 PM",
+                "days": "(Mon, Wed, Fri)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital"
+    },
+    {
+        "name": "Dr. Anila Haroon",
         "specialty": "PEDIATRICIAN / CHILD SPECIALIST",
-        "degree": "Degree\n                                        \n MBBS, DCH, FCPS",
+        "fees": "Rs 1200",
+        "degree": "MBBS, DCH, FCPS",
         "timings": [
             {
                 "time": "01:30 PM to 06:00 PM",
@@ -56,9 +246,10 @@
         "hospital": "Memo Medical School Hospital"
     },
     {
-        "name": "Dr. Brig.(R) Arshad Mahmood",
+        "name": "Dr. Anila Haroon",
         "specialty": "PEDIATRICIAN / CHILD SPECIALIST",
-        "degree": "Degree\n                                        \n MBBS, DCH, FCPS",
+        "fees": "Rs 1200",
+        "degree": "MBBS, DCH, FCPS",
         "timings": [
             {
                 "time": "09:00 AM to 01:00 PM & 06:00 PM to 09:00 PM",
@@ -71,18 +262,15 @@
             {
                 "time": "01:00 PM to 04:00 PM & 06:00 PM to 09:00 PM",
                 "days": "(Thu)"
-            },
-            {
-                "time": "12:00 PM to 02:00 PM",
-                "days": "(Sun)"
             }
         ],
         "hospital": "Memo Medical School Hospital"
     },
     {
-        "name": "Dr. Fareed  uddin",
+        "name": "Dr. Anila Haroon",
         "specialty": "PEDIATRICIAN / CHILD SPECIALIST",
-        "degree": "Degree\n                                        \n MBBS , DCH, MCPS, FCPS.",
+        "fees": "Rs 1200",
+        "degree": "MBBS, DCH, FCPS",
         "timings": [
             {
                 "time": "05:00 PM to 08:00 PM",
@@ -96,9 +284,10 @@
         "hospital": "Memo Medical School Hospital"
     },
     {
-        "name": "Prof. Dr. Ghaffar  Billo",
+        "name": "Dr. Anila Haroon",
         "specialty": "PEDIATRICIAN / CHILD SPECIALIST",
-        "degree": "Degree\n                                        \n MBBS, DCH, MRCP, DTMH, FRCP",
+        "fees": "Rs 1200",
+        "degree": "MBBS, DCH, FCPS",
         "timings": [
             {
                 "time": "10:00 AM to 02:00 PM",
@@ -108,45 +297,231 @@
         "hospital": "Memo Medical School Hospital"
     },
     {
-        "name": "Dr. Dileep  Kumar",
-        "specialty": "NEUROLOGIST/NEURO PHYSICIAN",
-        "degree": "Degree\n                                        \n MBBS, FCPS",
+        "name": "Asst.Prof.  Dr. Badar Uddin  Ujjan",
+        "specialty": "NEURO SURGEON",
+        "fees": "Rs 1200",
+        "degree": "MBBS, MCPS, FCPS, FACS",
         "timings": [
             {
-                "time": "03:00 PM to 05:00 PM",
-                "days": "(Mon, Wed, Fri)"
+                "time": "02:00 PM to 04:00 PM",
+                "days": "(Mon, Wed, Thu)"
             }
         ],
         "hospital": "Memo Medical School Hospital"
     },
     {
-        "name": "Dr. Naseer  Ahmed",
-        "specialty": "NEUROLOGIST/NEURO PHYSICIAN",
-        "degree": "Degree\n                                        \n MBBS, FCPS, Fellowship (Stroke)",
+        "name": "Asst.Prof.  Dr. Badar Uddin  Ujjan",
+        "specialty": "NEURO SURGEON",
+        "fees": "Rs 1200",
+        "degree": "MBBS, MCPS, FCPS, FACS",
         "timings": [
+            {
+                "time": "02:00 PM to 04:00 PM",
+                "days": "(Mon)"
+            },
             {
                 "time": "09:00 AM to 01:00 PM",
-                "days": "(Mon, Tue, Wed, Thu, Sat)"
+                "days": "(Tue, Sat)"
             },
             {
-                "time": "09:00 AM to 12:00 PM",
-                "days": "(Fri)"
+                "time": "02:00 PM to 05:00 PM",
+                "days": "(Wed, Thu, Fri)"
             }
         ],
         "hospital": "Memo Medical School Hospital"
     },
     {
-        "name": "Dr.Qurat  ul Ain",
-        "specialty": "NEUROLOGIST/NEURO PHYSICIAN",
-        "degree": "Degree\n                                        \n MBBS, FCPS",
+        "name": "Asst.Prof.  Dr. Badar Uddin  Ujjan",
+        "specialty": "NEURO SURGEON",
+        "fees": "Rs 1200",
+        "degree": "MBBS, MCPS, FCPS, FACS",
         "timings": [
             {
-                "time": "09:00AM TO 01:00PM",
+                "time": "5:00 PM to 7:00 PM",
+                "days": "(Tue, Sat)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital"
+    },
+    {
+        "name": "Asst.Prof.  Dr. Badar Uddin  Ujjan",
+        "specialty": "NEURO SURGEON",
+        "fees": "Rs 1200",
+        "degree": "MBBS, MCPS, FCPS, FACS",
+        "timings": [
+            {
+                "time": "09:00 AM to 02:00 PM",
+                "days": "(Mon, Wed, Thu, Fri)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital"
+    },
+    {
+        "name": "Dr. Naima Zamir",
+        "specialty": "PAEDIATRIC SURGEON",
+        "fees": "Rs 1200",
+        "degree": "MBBS, FCPS ( Paeds Surgery), FCPS (General Surgery)",
+        "timings": [
+            {
+                "time": "06:00 PM to 07:00 PM",
+                "days": "(Tue, Thu, Sat)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital"
+    },
+    {
+        "name": "Dr. Naima Zamir",
+        "specialty": "PAEDIATRIC SURGEON",
+        "fees": "Rs 1200",
+        "degree": "MBBS, FCPS ( Paeds Surgery), FCPS (General Surgery)",
+        "timings": [
+            {
+                "time": "03:00 PM to 04:00 PM",
                 "days": "(Mon, Wed, Fri)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital"
+    },
+    {
+        "name": "Dr. Anila Haroon",
+        "specialty": "PEDIATRICIAN / CHILD SPECIALIST",
+        "fees": "Rs 1200",
+        "degree": "MBBS, DCH, FCPS",
+        "timings": [
+            {
+                "time": "01:30 PM to 06:00 PM",
+                "days": "(Mon)"
             },
             {
-                "time": "02:00PM TO 05:00PM",
-                "days": "(Tue, Thu, Sat)"
+                "time": "01:30 PM to 05:30 PM",
+                "days": "(Tue, Wed)"
+            },
+            {
+                "time": "09:30 AM to 01:00 PM & 04:00 PM to 06:00 PM",
+                "days": "(Thu)"
+            },
+            {
+                "time": "10:30 AM to 12:30 PM & 01:30 PM to 05:30 PM",
+                "days": "(Fri)"
+            },
+            {
+                "time": "9:30 AM to 4:30 PM",
+                "days": "(Sat)"
+            },
+            {
+                "time": "12:00 PM to 02:00 PM",
+                "days": "(Sun)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital"
+    },
+    {
+        "name": "Dr. Anila Haroon",
+        "specialty": "PEDIATRICIAN / CHILD SPECIALIST",
+        "fees": "Rs 1200",
+        "degree": "MBBS, DCH, FCPS",
+        "timings": [
+            {
+                "time": "09:00 AM to 01:00 PM & 06:00 PM to 09:00 PM",
+                "days": "(Mon, Wed, Sat)"
+            },
+            {
+                "time": "09:00 AM to 01:00 PM & 02:00 PM to 04:00 PM & 06:00 PM to 09:00 PM",
+                "days": "(Tue, Fri)"
+            },
+            {
+                "time": "01:00 PM to 04:00 PM & 06:00 PM to 09:00 PM",
+                "days": "(Thu)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital"
+    },
+    {
+        "name": "Dr. Anila Haroon",
+        "specialty": "PEDIATRICIAN / CHILD SPECIALIST",
+        "fees": "Rs 1200",
+        "degree": "MBBS, DCH, FCPS",
+        "timings": [
+            {
+                "time": "05:00 PM to 08:00 PM",
+                "days": "(Mon, Tue, Wed, Thu, Fri, Sat)"
+            },
+            {
+                "time": "11:00 AM to 12:00 PM",
+                "days": "(Sun)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital"
+    },
+    {
+        "name": "Dr. Anila Haroon",
+        "specialty": "PEDIATRICIAN / CHILD SPECIALIST",
+        "fees": "Rs 1200",
+        "degree": "MBBS, DCH, FCPS",
+        "timings": [
+            {
+                "time": "10:00 AM to 02:00 PM",
+                "days": "(Tue)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital"
+    },
+    {
+        "name": "Asst.Prof.  Dr. Badar Uddin  Ujjan",
+        "specialty": "NEURO SURGEON",
+        "fees": "Rs 1200",
+        "degree": "MBBS, MCPS, FCPS, FACS",
+        "timings": [
+            {
+                "time": "02:00 PM to 04:00 PM",
+                "days": "(Mon, Wed, Thu)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital"
+    },
+    {
+        "name": "Asst.Prof.  Dr. Badar Uddin  Ujjan",
+        "specialty": "NEURO SURGEON",
+        "fees": "Rs 1200",
+        "degree": "MBBS, MCPS, FCPS, FACS",
+        "timings": [
+            {
+                "time": "02:00 PM to 04:00 PM",
+                "days": "(Mon)"
+            },
+            {
+                "time": "09:00 AM to 01:00 PM",
+                "days": "(Tue, Sat)"
+            },
+            {
+                "time": "02:00 PM to 05:00 PM",
+                "days": "(Wed, Thu, Fri)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital"
+    },
+    {
+        "name": "Asst.Prof.  Dr. Badar Uddin  Ujjan",
+        "specialty": "NEURO SURGEON",
+        "fees": "Rs 1200",
+        "degree": "MBBS, MCPS, FCPS, FACS",
+        "timings": [
+            {
+                "time": "5:00 PM to 7:00 PM",
+                "days": "(Tue, Sat)"
+            }
+        ],
+        "hospital": "Memo Medical School Hospital"
+    },
+    {
+        "name": "Asst.Prof.  Dr. Badar Uddin  Ujjan",
+        "specialty": "NEURO SURGEON",
+        "fees": "Rs 1200",
+        "degree": "MBBS, MCPS, FCPS, FACS",
+        "timings": [
+            {
+                "time": "09:00 AM to 02:00 PM",
+                "days": "(Mon, Wed, Thu, Fri)"
             }
         ],
         "hospital": "Memo Medical School Hospital"
