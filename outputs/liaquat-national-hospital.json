@@ -1,0 +1,293 @@
+[
+    {
+        "name": "Dr. Hina Yousuf",
+        "qualifications": "FCPS",
+        "department": "Paediatric Surgery",
+        "hospital": "Liaquat National Hospital",
+        "clinics": [
+            {
+                "clinic_name": "Paediatrics Urology And Nephrology Clinic",
+                "location": "Liaquat National Hospital",
+                "contact": "02134412474, 02134413036",
+                "timings": [
+                    {
+                        "day": "Mon",
+                        "shift": "Morning",
+                        "timing": "11:30 am  to  02:00 pm"
+                    },
+                    {
+                        "day": "Thu",
+                        "shift": "Morning",
+                        "timing": "11:30 am  to  02:00 pm"
+                    },
+                    {
+                        "day": "Fri",
+                        "shift": "Afternoon",
+                        "timing": "02:00 pm  to  04:30 pm"
+                    },
+                    {
+                        "day": "Sat",
+                        "shift": "Afternoon",
+                        "timing": "02:00 pm  to  04:29 pm"
+                    },
+                    {
+                        "day": "Fri",
+                        "shift": "Morning",
+                        "timing": "10:00 am  to  01:00 pm"
+                    }
+                ]
+            },
+            {
+                "clinic_name": "Paediatrics Stone Management Clinic",
+                "location": "Liaquat National Hospital",
+                "contact": "02134413199",
+                "timings": [
+                    {
+                        "day": "Wed",
+                        "shift": "Evening",
+                        "timing": "04:30 pm  to  06:00 pm"
+                    },
+                    {
+                        "day": "Sat",
+                        "shift": "Evening",
+                        "timing": "04:30 pm  to  06:00 pm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Prof. Dr. Muhammad Arshad",
+        "qualifications": "FCPS",
+        "department": "Paediatric Surgery",
+        "hospital": "Liaquat National Hospital",
+        "clinics": [
+            {
+                "clinic_name": "Paediatrics Urology And Nephrology Clinic",
+                "location": "Liaquat National Hospital",
+                "contact": "02134412474, 02134413036",
+                "timings": [
+                    {
+                        "day": "Mon",
+                        "shift": "Morning",
+                        "timing": "11:30 am  to  02:00 pm"
+                    },
+                    {
+                        "day": "Thu",
+                        "shift": "Morning",
+                        "timing": "11:30 am  to  02:00 pm"
+                    },
+                    {
+                        "day": "Fri",
+                        "shift": "Afternoon",
+                        "timing": "02:00 pm  to  04:30 pm"
+                    },
+                    {
+                        "day": "Sat",
+                        "shift": "Afternoon",
+                        "timing": "02:00 pm  to  04:29 pm"
+                    },
+                    {
+                        "day": "Fri",
+                        "shift": "Morning",
+                        "timing": "10:00 am  to  01:00 pm"
+                    }
+                ]
+            },
+            {
+                "clinic_name": "Paediatrics Stone Management Clinic",
+                "location": "Liaquat National Hospital",
+                "contact": "02134413199",
+                "timings": [
+                    {
+                        "day": "Wed",
+                        "shift": "Evening",
+                        "timing": "04:30 pm  to  06:00 pm"
+                    },
+                    {
+                        "day": "Sat",
+                        "shift": "Evening",
+                        "timing": "04:30 pm  to  06:00 pm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Prof. Dr. Shabbir Hussain",
+        "qualifications": "FCPS",
+        "department": "Paediatric Surgery",
+        "hospital": "Liaquat National Hospital",
+        "clinics": [
+            {
+                "clinic_name": "Paediatrics Urology And Nephrology Clinic",
+                "location": "Liaquat National Hospital",
+                "contact": "02134412474, 02134413036",
+                "timings": [
+                    {
+                        "day": "Mon",
+                        "shift": "Morning",
+                        "timing": "11:30 am  to  02:00 pm"
+                    },
+                    {
+                        "day": "Thu",
+                        "shift": "Morning",
+                        "timing": "11:30 am  to  02:00 pm"
+                    },
+                    {
+                        "day": "Fri",
+                        "shift": "Afternoon",
+                        "timing": "02:00 pm  to  04:30 pm"
+                    },
+                    {
+                        "day": "Sat",
+                        "shift": "Afternoon",
+                        "timing": "02:00 pm  to  04:29 pm"
+                    },
+                    {
+                        "day": "Fri",
+                        "shift": "Morning",
+                        "timing": "10:00 am  to  01:00 pm"
+                    }
+                ]
+            },
+            {
+                "clinic_name": "Paediatrics Stone Management Clinic",
+                "location": "Liaquat National Hospital",
+                "contact": "02134413199",
+                "timings": [
+                    {
+                        "day": "Wed",
+                        "shift": "Evening",
+                        "timing": "04:30 pm  to  06:00 pm"
+                    },
+                    {
+                        "day": "Sat",
+                        "shift": "Evening",
+                        "timing": "04:30 pm  to  06:00 pm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dr. Feroza Saleem",
+        "qualifications": "MBBS, FCPS",
+        "department": "Neurology",
+        "hospital": "Liaquat National Hospital",
+        "clinics": [
+            {
+                "clinic_name": "Neurology Specialized Clinic",
+                "location": "Nazimabad",
+                "contact": "021-36615855",
+                "timings": [
+                    {
+                        "day": "Thu",
+                        "shift": "Evening",
+                        "timing": "05:00 pm  to  06:30 pm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dr. Hazim M. Yousuf Brohi",
+        "qualifications": "MBBS, FCPS",
+        "department": "Neurology",
+        "hospital": "Liaquat National Hospital",
+        "clinics": [
+            {
+                "clinic_name": "Neurology Specialized Clinic",
+                "location": "Nazimabad",
+                "contact": "021-36615855",
+                "timings": [
+                    {
+                        "day": "Thu",
+                        "shift": "Evening",
+                        "timing": "05:00 pm  to  06:30 pm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dr. Naveed Uddin Ahmed",
+        "qualifications": "MBBS, FCPS",
+        "department": "Neurology",
+        "hospital": "Liaquat National Hospital",
+        "clinics": [
+            {
+                "clinic_name": "Neurology Specialized Clinic",
+                "location": "Nazimabad",
+                "contact": "021-36615855",
+                "timings": [
+                    {
+                        "day": "Thu",
+                        "shift": "Evening",
+                        "timing": "05:00 pm  to  06:30 pm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dr. Rajesh Kumar",
+        "qualifications": "MBBS, FCPS",
+        "department": "Neurology",
+        "hospital": "Liaquat National Hospital",
+        "clinics": [
+            {
+                "clinic_name": "Neurology Specialized Clinic",
+                "location": "Nazimabad",
+                "contact": "021-36615855",
+                "timings": [
+                    {
+                        "day": "Thu",
+                        "shift": "Evening",
+                        "timing": "05:00 pm  to  06:30 pm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dr. Saba Zaidi",
+        "qualifications": "MBBS, FCPS",
+        "department": "Neurology",
+        "hospital": "Liaquat National Hospital",
+        "clinics": [
+            {
+                "clinic_name": "Neurology Specialized Clinic",
+                "location": "Nazimabad",
+                "contact": "021-36615855",
+                "timings": [
+                    {
+                        "day": "Thu",
+                        "shift": "Evening",
+                        "timing": "05:00 pm  to  06:30 pm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dr. Syed Ahmed Asif",
+        "qualifications": "MBBS, FCPS",
+        "department": "Neurology",
+        "hospital": "Liaquat National Hospital",
+        "clinics": [
+            {
+                "clinic_name": "Neurology Specialized Clinic",
+                "location": "Nazimabad",
+                "contact": "021-36615855",
+                "timings": [
+                    {
+                        "day": "Thu",
+                        "shift": "Evening",
+                        "timing": "05:00 pm  to  06:30 pm"
+                    }
+                ]
+            }
+        ]
+    }
+]
