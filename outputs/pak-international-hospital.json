@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Rozeena Dharwarwala",
+        "education": "Clinical Psychologist & HypnotherapistM.Phil (Clinical Psychology) ICD, KU.Forensic Mental Health Training SOFMH, NHS Scotland.Monday to Saturday \u2013 4 Pm to 10 Pm",
+        "hospital": "Pak International Hospital",
+        "position": "N/A",
+        "clinic": {
+            "days": [],
+            "timings": [
+                {
+                    "time": "",
+                    "days": ""
+                }
+            ]
+        }
+    },
+    {
+        "name": "Prof. Dr. M. Iqbal Afridi",
+        "education": "MBBS, MCPS PSYCH, FCPS PSYCH (PAK),FACP (USA), FRCP (Ireland),Consultant Neuro-psychiatrist & AddictionologistMonday to Saturday 6:00 Pm to 10:00 Pm",
+        "hospital": "Pak International Hospital",
+        "position": "N/A",
+        "clinic": {
+            "days": [],
+            "timings": [
+                {
+                    "time": "",
+                    "days": ""
+                }
+            ]
+        }
+    },
+    {
+        "name": "Dr. Aurangzaib Abbasi",
+        "education": "N/A",
+        "hospital": "Pak International Hospital",
+        "position": "N/A",
+        "clinic": {
+            "days": [],
+            "timings": [
+                {
+                    "time": "",
+                    "days": ""
+                }
+            ]
+        }
+    },
+    {
+        "name": "Dr. Humera Shaikh\u200b",
+        "education": "MBBS, MCPSConsultant PediatricianMon to Sat \u2013 02:00 Pm to 04:00 Pm",
+        "hospital": "Pak International Hospital",
+        "position": "N/A",
+        "clinic": {
+            "days": [],
+            "timings": [
+                {
+                    "time": "",
+                    "days": ""
+                }
+            ]
+        }
+    }
+]

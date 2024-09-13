@@ -1,0 +1,548 @@
+[
+    {
+        "name": "ABDUL NAVEED KHAN, DR.",
+        "position": [
+            "NEURO SURGEON"
+        ],
+        "qualifications": [
+            "MBBS, FCPS"
+        ],
+        "timings": {
+            "Monday": "03:00 PM TO 05:00 PM",
+            "Tesday": "- TO -",
+            "Wednesday": "03:00 PM TO 05:00 PM",
+            "Thrsday": "- TO -",
+            "Friday": "03:00 PM TO 05:00 PM",
+            "Satrday": "- TO -"
+        },
+        "hospital": "National Medical Care Hospital",
+        "patient_serving_remarks": "Patient Serving Remarks: First Come First Serve",
+        "token_note": "Token Note: Number allocation will be start after 12:00 pm on same OPD day with first come first basis.",
+        "on_leave": ""
+    },
+    {
+        "name": "AHMER ZUBERI, DR.",
+        "position": [
+            "PSYCHOLOGIST"
+        ],
+        "qualifications": [
+            "MS (PSYCH), PG CERT (CLIN. PSYCH), CBT & EMDR PRACTITIONER, RBT, DDRP"
+        ],
+        "timings": {
+            "Monday": "- TO -",
+            "Tesday": "- TO -",
+            "Wednesday": "- TO -",
+            "Thrsday": "- TO -",
+            "Friday": "- TO -",
+            "Satrday": "04:30 PM TO 07:30 PM"
+        },
+        "hospital": "National Medical Care Hospital",
+        "patient_serving_remarks": "Patient Serving Remarks: Appointment Only",
+        "token_note": "",
+        "on_leave": ""
+    },
+    {
+        "name": "ASFIA IRFAN, DR.",
+        "position": [
+            "NEURO PHYSICIAN"
+        ],
+        "qualifications": [
+            "MBBS, FCPS"
+        ],
+        "timings": {
+            "Monday": "10:00 AM TO 12:00 PM",
+            "Tesday": "10:00 PM TO 12:00 PM",
+            "Wednesday": "10:00 AM TO 12:00 PM",
+            "Thrsday": "10:00 AM TO 12:00 PM",
+            "Friday": "10:00 AM TO 12:00 PM",
+            "Satrday": "- TO -"
+        },
+        "hospital": "National Medical Care Hospital",
+        "patient_serving_remarks": "Patient Serving Remarks: First Come First Serve",
+        "token_note": "Token Note: Number allocation will be start after 08:00 am on same OPD day with first come first basis.",
+        "on_leave": ""
+    },
+    {
+        "name": "AYESHA UQUAILY, DR.",
+        "position": [
+            "NEURO PSYCHIATRIST"
+        ],
+        "qualifications": [
+            "MBBS, FCPS, MRC (PSYCH)"
+        ],
+        "timings": {
+            "Monday": "- TO -",
+            "Tesday": "07:00 PM TO 09:00 PM",
+            "Wednesday": "- TO -",
+            "Thrsday": "07:00 PM TO 09:00 PM",
+            "Friday": "- TO -",
+            "Satrday": "02:00 PM TO 05:00 PM"
+        },
+        "hospital": "National Medical Care Hospital",
+        "patient_serving_remarks": "Patient Serving Remarks: First Come First Serve",
+        "token_note": "Token Note: .",
+        "on_leave": ""
+    },
+    {
+        "name": "BADAR UDDIN UJJAN, DR.",
+        "position": [
+            "NEURO SURGEON"
+        ],
+        "qualifications": [
+            "MBBS, MCPS, FCPS, FACS (USA)"
+        ],
+        "timings": {
+            "Monday": "- TO -",
+            "Tesday": "- TO -",
+            "Wednesday": "08:00 PM TO 09:30 PM",
+            "Thrsday": "- TO -",
+            "Friday": "- TO -",
+            "Satrday": "04:00 PM TO 06:00 PM"
+        },
+        "hospital": "National Medical Care Hospital",
+        "patient_serving_remarks": "Patient Serving Remarks: First Come First Serve",
+        "token_note": "Token Note: .",
+        "on_leave": ""
+    },
+    {
+        "name": "BHOJO A. KHEALANI, DR.",
+        "position": [
+            "NEUROPHYSIOLOGIST"
+        ],
+        "qualifications": [
+            "MBBS, FCPS (NEUROLOGY), IDABCN (CENTRAL NEUROPHYSIOLOGY), IDABCN (NIOM)"
+        ],
+        "timings": {
+            "Monday": "02:00 PM TO 08:00 PM",
+            "Tesday": "- TO -",
+            "Wednesday": "02:00 PM TO 08:00 PM",
+            "Thrsday": "02:00 PM TO 08:00 PM",
+            "Friday": "02:00 PM TO 08:00 PM",
+            "Satrday": "02:00 PM TO 08:00 PM"
+        },
+        "hospital": "National Medical Care Hospital",
+        "patient_serving_remarks": "Patient Serving Remarks: First Come First Serve",
+        "token_note": "Token Note: Number allocation will be start after 01:00 pm on same OPD day with first come first basis.",
+        "on_leave": ""
+    },
+    {
+        "name": "BHOJO A. KHEALANI, DR.",
+        "position": [
+            "NEURO PHYSICIAN"
+        ],
+        "qualifications": [
+            "MBBS, FCPS (NEUROLOGY), IDABCN (CENTRAL NEUROPHYSIOLOGY), IDABCN (NIOM)"
+        ],
+        "timings": {
+            "Monday": "02:00 PM TO 08:00 PM",
+            "Tesday": "- TO -",
+            "Wednesday": "02:00 PM TO 08:00 PM",
+            "Thrsday": "02:00 PM TO 08:00 PM",
+            "Friday": "02:00 PM TO 08:00 PM",
+            "Satrday": "02:00 PM TO 08:00 PM"
+        },
+        "hospital": "National Medical Care Hospital",
+        "patient_serving_remarks": "Patient Serving Remarks: First Come First Serve",
+        "token_note": "Token Note: Number allocation will be start after 01:00 pm on same OPD day with first come first basis.",
+        "on_leave": ""
+    },
+    {
+        "name": "FEROZA SALEEM, DR.",
+        "position": [
+            "NEUROPHYSIOLOGIST"
+        ],
+        "qualifications": [
+            "MBBS, FCPS (NEURO)"
+        ],
+        "timings": {
+            "Monday": "11:30 AM TO 01:30 PM",
+            "Tesday": "11:30 AM TO 01:30 PM",
+            "Wednesday": "11:30 AM TO 01:30 PM",
+            "Thrsday": "11:30 AM TO 01:30 PM",
+            "Friday": "- TO -",
+            "Satrday": "12:00 PM TO 02:00 PM"
+        },
+        "hospital": "National Medical Care Hospital",
+        "patient_serving_remarks": "Patient Serving Remarks: First Come First Serve",
+        "token_note": "Token Note: Number allocation will be start at 08:00 am on same OPD day.",
+        "on_leave": ""
+    },
+    {
+        "name": "FEROZA SALEEM, DR.",
+        "position": [
+            "NEURO PHYSICIAN"
+        ],
+        "qualifications": [
+            "MBBS, FCPS (NEURO)"
+        ],
+        "timings": {
+            "Monday": "11:30 AM TO 01:30 PM",
+            "Tesday": "11:30 AM TO 01:30 PM",
+            "Wednesday": "11:30 AM TO 01:30 PM",
+            "Thrsday": "11:30 AM TO 01:30 PM",
+            "Friday": "- TO -",
+            "Satrday": "12:00 PM TO 02:00 PM"
+        },
+        "hospital": "National Medical Care Hospital",
+        "patient_serving_remarks": "Patient Serving Remarks: First Come First Serve",
+        "token_note": "Token Note: Number allocation will be start at 08:00 am on same OPD day.",
+        "on_leave": ""
+    },
+    {
+        "name": "IQTIDAR HAMID BHATTI, PROF.",
+        "position": [
+            "NEURO SURGEON"
+        ],
+        "qualifications": [
+            "MBBS (PB), FRCS (ENG.) TI"
+        ],
+        "timings": {
+            "Monday": "08:30 AM TO 09:30 AM",
+            "Tesday": "08:30 AM TO 09:30 AM",
+            "Wednesday": "- TO -",
+            "Thrsday": "08:30 AM TO 09:30 AM",
+            "Friday": "- TO -",
+            "Satrday": "08:30 AM TO 09:30 AM"
+        },
+        "hospital": "National Medical Care Hospital",
+        "patient_serving_remarks": "Patient Serving Remarks: First Come First Serve",
+        "token_note": "Token Note: Number allocation will be start at 08:00 am sharp on same OPD day.\nOnly 30 patients will be accomodated on first come first basis.",
+        "on_leave": ""
+    },
+    {
+        "name": "IRSA HYDER SHAIKH, DR.",
+        "position": [
+            "NEURO PSYCHIATRIST"
+        ],
+        "qualifications": [
+            "MBBS, FCPS"
+        ],
+        "timings": {
+            "Monday": "- TO -",
+            "Tesday": "- TO -",
+            "Wednesday": "- TO -",
+            "Thrsday": "- TO -",
+            "Friday": "- TO -",
+            "Satrday": "03:00 PM TO 05:00 PM"
+        },
+        "hospital": "National Medical Care Hospital",
+        "patient_serving_remarks": "Patient Serving Remarks: First Come First Serve",
+        "token_note": "Token Note: Number allocation will be start after 03:00 pm on same OPD day.",
+        "on_leave": ""
+    },
+    {
+        "name": "JUNAID ASHRAF, PROF.",
+        "position": [
+            "NEURO SURGEON"
+        ],
+        "qualifications": [
+            "MBBS, FRCS, FRCS (SN)"
+        ],
+        "timings": {
+            "Monday": "11:00 AM TO 02:00 PM",
+            "Tesday": "- TO -",
+            "Wednesday": "- TO -",
+            "Thrsday": "11:00 AM TO 02:00 PM",
+            "Friday": "- TO -",
+            "Satrday": "11:00 AM TO 02:00 PM"
+        },
+        "hospital": "National Medical Care Hospital",
+        "patient_serving_remarks": "Patient Serving Remarks: First Come First Serve",
+        "token_note": "Token Note: Number allocation will be start at 10:00 am sharp on same OPD day.\nOnly 20 patients will be accomodated on first come first basis.",
+        "on_leave": ""
+    },
+    {
+        "name": "KHALID SHER, DR.",
+        "position": [
+            "NEURO PHYSICIAN"
+        ],
+        "qualifications": [
+            "MBBS, MD, FCPS"
+        ],
+        "timings": {
+            "Monday": "04:00 PM TO 07:30 PM",
+            "Tesday": "04:00 PM TO 07:30 PM",
+            "Wednesday": "04:00 PM TO 07:30 PM",
+            "Thrsday": "04:00 PM TO 07:30 PM",
+            "Friday": "04:00 PM TO 07:30 PM",
+            "Satrday": "- TO -"
+        },
+        "hospital": "National Medical Care Hospital",
+        "patient_serving_remarks": "Patient Serving Remarks: Appointment Only",
+        "token_note": "",
+        "on_leave": ""
+    },
+    {
+        "name": "M. IQBAL AFRIDI, PROF.",
+        "position": [
+            "NEURO PSYCHIATRIST"
+        ],
+        "qualifications": [
+            "MBBS, MCPS, FCPS, FRCP"
+        ],
+        "timings": {
+            "Monday": "03:00 PM TO 05:00 PM",
+            "Tesday": "03:00 PM TO 05:00 PM",
+            "Wednesday": "03:00 PM TO 05:00 PM",
+            "Thrsday": "03:00 PM TO 05:00 PM",
+            "Friday": "03:00 PM TO 05:00 PM",
+            "Satrday": "- TO -"
+        },
+        "hospital": "National Medical Care Hospital",
+        "patient_serving_remarks": "Patient Serving Remarks: Appointment Only",
+        "token_note": "",
+        "on_leave": ""
+    },
+    {
+        "name": "MOHSIN QADEER, DR.",
+        "position": [
+            "NEURO SURGEON"
+        ],
+        "qualifications": [
+            "MBBS, FCPS"
+        ],
+        "timings": {
+            "Monday": "02:00 PM TO 04:00 PM",
+            "Tesday": "02:00 PM TO 04:00 PM",
+            "Wednesday": "02:00 PM TO 04:00 PM",
+            "Thrsday": "02:00 PM TO 04:00 PM",
+            "Friday": "11:00 AM TO 01:00 PM",
+            "Satrday": "02:00 PM TO 04:00 PM"
+        },
+        "hospital": "National Medical Care Hospital",
+        "patient_serving_remarks": "Patient Serving Remarks: First Come First Serve",
+        "token_note": "Token Note: Number allocation will be start after 09:00 am on same OPD day with first come first basis.",
+        "on_leave": ""
+    },
+    {
+        "name": "MUBASHIRA HASHMI, DR.",
+        "position": [
+            "NEUROPHYSIOLOGIST"
+        ],
+        "qualifications": [
+            "MBBS, FCPS (NEUROLOGY), IDABCN (CENTRAL NEUROPHYSIOLOGY & EPILEPSY MONITORING), ABEM (AMERICAN BOARD OF ELECTRO-DIAGNOSTIC MEDICINE)"
+        ],
+        "timings": {
+            "Monday": "10:30 AM TO 02:00 PM",
+            "Tesday": "10:30 AM TO 02:00 PM",
+            "Wednesday": "- TO -",
+            "Thrsday": "10:30 AM TO 02:00 PM",
+            "Friday": "10:30 AM TO 02:00 PM",
+            "Satrday": "- TO -"
+        },
+        "hospital": "National Medical Care Hospital",
+        "patient_serving_remarks": "Patient Serving Remarks: First Come First Serve",
+        "token_note": "",
+        "on_leave": ""
+    },
+    {
+        "name": "MUBASHIRA HASHMI, DR.",
+        "position": [
+            "NEURO PHYSICIAN"
+        ],
+        "qualifications": [
+            "MBBS, FCPS (NEUROLOGY), IDABCN (CENTRAL NEUROPHYSIOLOGY & EPILEPSY MONITORING), ABEM (AMERICAN BOARD OF ELECTRO-DIAGNOSTIC MEDICINE)"
+        ],
+        "timings": {
+            "Monday": "10:30 AM TO 02:00 PM",
+            "Tesday": "10:30 AM TO 02:00 PM",
+            "Wednesday": "- TO -",
+            "Thrsday": "10:30 AM TO 02:00 PM",
+            "Friday": "10:30 AM TO 02:00 PM",
+            "Satrday": "- TO -"
+        },
+        "hospital": "National Medical Care Hospital",
+        "patient_serving_remarks": "Patient Serving Remarks: First Come First Serve",
+        "token_note": "",
+        "on_leave": ""
+    },
+    {
+        "name": "MUHAMMAD ABDULLAH, PROF.",
+        "position": [
+            "NEURO PHYSICIAN"
+        ],
+        "qualifications": [
+            "MBBS, FCPS"
+        ],
+        "timings": {
+            "Monday": "08:30 AM TO 10:30 AM",
+            "Tesday": "08:30 AM TO 10:30 AM",
+            "Wednesday": "- TO -",
+            "Thrsday": "08:30 AM TO 10:30 AM",
+            "Friday": "- TO -",
+            "Satrday": "08:30 AM TO 10:30 AM"
+        },
+        "hospital": "National Medical Care Hospital",
+        "patient_serving_remarks": "Patient Serving Remarks: First Come First Serve",
+        "token_note": "",
+        "on_leave": ""
+    },
+    {
+        "name": "MUHAMMAD ASIM KHAN REHMANI, DR.",
+        "position": [
+            "NEURO SURGEON"
+        ],
+        "qualifications": [
+            "MBBS, FCPS (NEUROSURGERY)"
+        ],
+        "timings": {
+            "Monday": "04:30 PM TO 07:30 PM",
+            "Tesday": "04:30 PM TO 07:30 PM",
+            "Wednesday": "04:30 PM TO 07:30 PM",
+            "Thrsday": "04:30 PM TO 07:30 PM",
+            "Friday": "04:30 PM TO 07:30 PM",
+            "Satrday": "04:30 PM TO 07:30 PM"
+        },
+        "hospital": "National Medical Care Hospital",
+        "patient_serving_remarks": "Patient Serving Remarks: First Come First Serve",
+        "token_note": "Token Note: Number allocation will be start after 03:00 pm on same OPD day with first come first basis.",
+        "on_leave": ""
+    },
+    {
+        "name": "MUHAMMAD MUNIR HAMIRANI, DR.",
+        "position": [
+            "NEURO PSYCHIATRIST"
+        ],
+        "qualifications": [
+            "MBBS, FCPS, DPM (DUBLIN)"
+        ],
+        "timings": {
+            "Monday": "10:30 AM TO 12:00 PM",
+            "Tesday": "- TO -",
+            "Wednesday": "10:30 AM TO 12:00 PM",
+            "Thrsday": "- TO -",
+            "Friday": "10:30 AM TO 12:00 PM",
+            "Satrday": "- TO -"
+        },
+        "hospital": "National Medical Care Hospital",
+        "patient_serving_remarks": "Patient Serving Remarks: First Come First Serve",
+        "token_note": "Token Note: Number allocation will be start after 08:00 am on same OPD day with first come first basis.",
+        "on_leave": ""
+    },
+    {
+        "name": "NAILA SHAHBAZ, PROF.",
+        "position": [
+            "NEURO PHYSICIAN"
+        ],
+        "qualifications": [
+            "MBBS, FCPS (NEUROLOGY)"
+        ],
+        "timings": {
+            "Monday": "05:30 PM TO 09:00 PM",
+            "Tesday": "05:30 PM TO 09:00 PM",
+            "Wednesday": "05:30 PM TO 09:00 PM",
+            "Thrsday": "05:30 PM TO 09:00 PM",
+            "Friday": "- TO -",
+            "Satrday": "- TO -"
+        },
+        "hospital": "National Medical Care Hospital",
+        "patient_serving_remarks": "Patient Serving Remarks: Appointment Only",
+        "token_note": "",
+        "on_leave": ""
+    },
+    {
+        "name": "NASEER AHMED SHAIKH, DR.",
+        "position": [
+            "NEURO PHYSICIAN"
+        ],
+        "qualifications": [
+            "MBBS, FCPS (NEUROLOGY)"
+        ],
+        "timings": {
+            "Monday": "- TO -",
+            "Tesday": "07:30 PM TO 09:00 PM",
+            "Wednesday": "- TO -",
+            "Thrsday": "07:30 PM TO 09:00 PM",
+            "Friday": "- TO -",
+            "Satrday": "07:30 PM TO 09:00 PM"
+        },
+        "hospital": "National Medical Care Hospital",
+        "patient_serving_remarks": "Patient Serving Remarks: First Come First Serve",
+        "token_note": "Token Note: Number allocation will be start after 03:00 pm on same OPD day with first come first basis.",
+        "on_leave": ""
+    },
+    {
+        "name": "PREM CHAND, DR.",
+        "position": [
+            "PEDIATRIC NEUROLOGIST"
+        ],
+        "qualifications": [
+            "MBBS, FCPS"
+        ],
+        "timings": {
+            "Monday": "- TO -",
+            "Tesday": "12:30 PM TO 04:00 PM",
+            "Wednesday": "- TO -",
+            "Thrsday": "12:30 PM TO 04:00 PM",
+            "Friday": "- TO -",
+            "Satrday": "- TO -"
+        },
+        "hospital": "National Medical Care Hospital",
+        "patient_serving_remarks": "Patient Serving Remarks: Appointment Only",
+        "token_note": "",
+        "on_leave": ""
+    },
+    {
+        "name": "SALMAN Y. SHARIF, PROF.",
+        "position": [
+            "NEURO SURGEON"
+        ],
+        "qualifications": [
+            "MBBS, FRCS (LONDON), FRCS (SN)"
+        ],
+        "timings": {
+            "Monday": "- TO -",
+            "Tesday": "03:30 PM TO 05:00 PM",
+            "Wednesday": "- TO -",
+            "Thrsday": "- TO -",
+            "Friday": "03:30 PM TO 05:00 PM",
+            "Satrday": "03:30 PM TO 05:30 PM"
+        },
+        "hospital": "National Medical Care Hospital",
+        "patient_serving_remarks": "Patient Serving Remarks: Appointment Only",
+        "token_note": "",
+        "on_leave": ""
+    },
+    {
+        "name": "SANAM BANO, DR.",
+        "position": [
+            "PEDIATRIC NEUROLOGIST"
+        ],
+        "qualifications": [
+            "MBBS, FCPS (MEDICINE), FCPS (PEDS NEUROLOGY)"
+        ],
+        "timings": {
+            "Monday": "- TO -",
+            "Tesday": "05:30 PM TO 07:30 PM",
+            "Wednesday": "- TO -",
+            "Thrsday": "05:30 PM TO 07:30 PM",
+            "Friday": "- TO -",
+            "Satrday": "05:30 PM TO 07:30 PM"
+        },
+        "hospital": "National Medical Care Hospital",
+        "patient_serving_remarks": "Patient Serving Remarks: First Come First Serve",
+        "token_note": "",
+        "on_leave": ""
+    },
+    {
+        "name": "ZOHAIB SOHAIL, DR.",
+        "position": [
+            "NEURO PSYCHIATRIST"
+        ],
+        "qualifications": [
+            "DIPLOMTE AMERICAN BOARD OF PSYCHIATRY (M.D)"
+        ],
+        "timings": {
+            "Monday": "02:00 PM TO 04:00 PM",
+            "Tesday": "- TO -",
+            "Wednesday": "02:00 PM TO 04:00 PM",
+            "Thrsday": "- TO -",
+            "Friday": "02:00 PM TO 04:00 PM",
+            "Satrday": "- TO -"
+        },
+        "hospital": "National Medical Care Hospital",
+        "patient_serving_remarks": "Patient Serving Remarks: First Come First Serve",
+        "token_note": "",
+        "on_leave": ""
+    }
+]
