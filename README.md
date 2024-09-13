@@ -5,6 +5,14 @@ https://burhanihospital.org.pk/specialization/pediatric-surgeon/
 https://pih.com.pk/doctors-list/
 https://hfhkarachi.org/PSYCHIATARIST.html
 http://portal.nmc.net.pk/labportal/DoctorTiming/Index
+https://mmi.edu.pk/find-a-doctor
+https://www.lnh.edu.pk/Doctors?spe=207825fb-4313-43ca-9398-398ed6fbb0cf
+
+
+# needs improvements
+
+https://hospitals.aku.edu/pakistan/patientservices/pages/findadoctor.aspx?Spec=Clinical%20Psychology
+
 
 
 ## To do 
