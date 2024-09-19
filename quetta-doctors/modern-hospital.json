@@ -1,0 +1,206 @@
+[
+    {
+        "name": "Dr.                                                        Maaz",
+        "speciality": "Emergency, Medical Officers",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-01.jpg",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                        Mehreen",
+        "speciality": "Emergency, Medical Officers",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-01.jpg",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                        Saima",
+        "speciality": "Emergency, Medical Officers",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-00.png",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                        Alisha",
+        "speciality": "Emergency, Medical Officers",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-00.png",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                                            M.A Waheed",
+        "speciality": "(Child Specialist & Neonatologist)",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-01.jpg",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                                            Imran  Khan",
+        "speciality": "Paediatrics",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/441d235fff.png",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                                            Tariq  Alam",
+        "speciality": "Paediatrics",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-01.jpg",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                                            Khurram  Sajid",
+        "speciality": "Paediatrics",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-01.jpg",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                                            Sajid  Jabbar",
+        "speciality": "Paediatrics",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-01.jpg",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                                            Taimur  Iftikhar",
+        "speciality": "Paediatric Surgeon",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-01.jpg",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                                            Naima  Rasool",
+        "speciality": "Paediatric Surgeon",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-00.png",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                                            Furqan Ali Bajwa",
+        "speciality": "Consultant PEDIATRICIAN",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-01.jpg",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                                            Faryal  .",
+        "speciality": "Registrar Paediatric",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-00.png",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                                            Abdul  Basit",
+        "speciality": "Registrar Paediatric",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-01.jpg",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                        Maaz",
+        "speciality": "Emergency, Medical Officers",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-01.jpg",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                        Mehreen",
+        "speciality": "Emergency, Medical Officers",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-01.jpg",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                        Saima",
+        "speciality": "Emergency, Medical Officers",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-00.png",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                        Alisha",
+        "speciality": "Emergency, Medical Officers",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-00.png",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                                            Abdul Rehman",
+        "speciality": "Nephologist",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-01.jpg",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                                            Mahjabeen  Yaseen",
+        "speciality": "Nephologist",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/b3569e79b3.png",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                        Maaz",
+        "speciality": "Emergency, Medical Officers",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-01.jpg",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                        Mehreen",
+        "speciality": "Emergency, Medical Officers",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-01.jpg",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                        Saima",
+        "speciality": "Emergency, Medical Officers",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-00.png",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                        Alisha",
+        "speciality": "Emergency, Medical Officers",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-00.png",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                                            Daniyal  Riaz",
+        "speciality": "Psychologist",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/5dacaa3004.png",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                                            Nighat  Altaf",
+        "speciality": "Psychologist",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-00.png",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                                            Nighta  .",
+        "speciality": "Psychologist",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-00.png",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                        Maaz",
+        "speciality": "Emergency, Medical Officers",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-01.jpg",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                        Mehreen",
+        "speciality": "Emergency, Medical Officers",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-01.jpg",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                        Saima",
+        "speciality": "Emergency, Medical Officers",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-00.png",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                        Alisha",
+        "speciality": "Emergency, Medical Officers",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-00.png",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                                            Inaam  Rasool",
+        "speciality": "Psychiatrist",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-01.jpg",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                                            Amber  Adil",
+        "speciality": "Psychiatry",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-00.png",
+        "hospital": "Modern Hospital"
+    },
+    {
+        "name": "Dr.                                                                            Rabia",
+        "speciality": "phychiatrist",
+        "image": "https://www.themodernhospital.com/../../backend_modern/public/doctor_gallery/team-01.jpg",
+        "hospital": "Modern Hospital"
+    }
+]
