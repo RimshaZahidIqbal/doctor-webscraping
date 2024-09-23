@@ -11,18 +11,10 @@ https://hospitals.aku.edu/pakistan/patientservices/pages/findadoctor.aspx?Spec=C
 https://www.ziauddinhospital.com/for-patients/find-a-doctor/
 https://indushospital.org.pk/our-team/our-faculty/
 https://pih.com.pk/doctors-list/
-
-
-# needs improvements
-
-
-## To do 
-
-
 https://www.themodeSrnhospital.com/meet_doctors?id_departments=16#doctors    
-// moden hospital 
 
 
-<!--  for all doctors in pakistan  -->
 
-https://www.marham.pk/doctors
+
+
+
